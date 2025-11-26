@@ -166,10 +166,5 @@ Include a PR with commentary about:
 - evaluation logic  
 - creative generation method  
 
-Template included in:
 
-```
-PR_SELF_REVIEW.md
-```
 
----
