@@ -1,0 +1,3082 @@
+{
+  "global_kpis": {
+    "total_spend": 2105579.9,
+    "total_impressions": 1190236513,
+    "total_clicks": 15071264,
+    "avg_ctr": 0.013054408834288475,
+    "avg_roas": 9.641852662159044
+  },
+  "by_campaign": [
+    {
+      "campaign_name": " OMEN  Cotton  Classics",
+      "ctr": 0.010245969295108128,
+      "roas": 9.839910313901346,
+      "creative_message_samples": [
+        "All\u2011day comfort, zero pinch \u2014 try our women sports bras!"
+      ]
+    },
+    {
+      "campaign_name": " OMEN COTTON CLASSICS",
+      "ctr": 0.0075774660592666096,
+      "roas": 0.3223102828349328,
+      "creative_message_samples": [
+        "Confidence starts inside \u2014 elevate with women sports bras."
+      ]
+    },
+    {
+      "campaign_name": " en Premium Modal",
+      "ctr": 0.014413235178332415,
+      "roas": 4.660054213898472,
+      "creative_message_samples": [
+        "All\u2011day comfort, zero pinch \u2014 try our men inner vests!"
+      ]
+    },
+    {
+      "campaign_name": " omen Summer Invisible",
+      "ctr": 0.012784669505647103,
+      "roas": 1.7669250645994832,
+      "creative_message_samples": [
+        "Summer\u2011ready essentials \u2014 sweat\u2011wicking women wire\u2011free bras."
+      ]
+    },
+    {
+      "campaign_name": "-EN Signature Soft",
+      "ctr": 0.015121004029585586,
+      "roas": 3.8130007347024453,
+      "creative_message_samples": [
+        "Breathable cotton that moves with you \u2014 limited offer on men athletic briefs."
+      ]
+    },
+    {
+      "campaign_name": "-omen summer invisible",
+      "ctr": 0.01734981297503722,
+      "roas": 23.361282367447593,
+      "creative_message_samples": [
+        "Confidence starts inside \u2014 elevate with women sports bras."
+      ]
+    },
+    {
+      "campaign_name": "-omen-Studio Sports",
+      "ctr": 0.009563218390804597,
+      "roas": 29.485342456564034,
+      "creative_message_samples": [
+        "Breathable cotton that moves with you \u2014 limited offer on women panties."
+      ]
+    },
+    {
+      "campaign_name": "-omen_|_Studio_Sports",
+      "ctr": 0.01143732061558105,
+      "roas": 26.259139150943398,
+      "creative_message_samples": [
+        "Hot & comfy: women sports bras now 20% off \u2014 feel the difference."
+      ]
+    },
+    {
+      "campaign_name": "M-n Bold Colors Drop",
+      "ctr": 0.007626175852966539,
+      "roas": 0.7065712286744525,
+      "creative_message_samples": [
+        "Seamless confidence for every day \u2014 new men trunks."
+      ]
+    },
+    {
+      "campaign_name": "ME  Signature Soft",
+      "ctr": 0.020525217148549275,
+      "roas": 1.8130842788838935,
+      "creative_message_samples": [
+        "Ultra\u2011soft waistband, no marks \u2014 premium men inner vests."
+      ]
+    },
+    {
+      "campaign_name": "ME- PREMIUM MODAL",
+      "ctr": 0.01171448641054736,
+      "roas": 1.4332770840364495,
+      "creative_message_samples": [
+        "Wire\u2011free ease, cloud\u2011soft cups \u2014 men briefs that fits right."
+      ]
+    },
+    {
+      "campaign_name": "MEN  Si-nature  Soft",
+      "ctr": 0.01867662080532681,
+      "roas": 0.9756932032885667,
+      "creative_message_samples": [
+        "3\u2011pack deal ends tonight \u2014 upgrade your men drawer with boxers."
+      ]
+    },
+    {
+      "campaign_name": "MEN  Signature  Soft",
+      "ctr": 0.014461023710324445,
+      "roas": 2.032443968926317,
+      "creative_message_samples": [
+        "Push comfort, not wires \u2014 everyday men boxers.",
+        "Confidence starts inside \u2014 elevate with men boxers.",
+        "Push comfort, not wires \u2014 everyday men boxers."
+      ]
+    },
+    {
+      "campaign_name": "MEN  Signture  Soft",
+      "ctr": 0.005513856408676535,
+      "roas": 0.3251098570185809,
+      "creative_message_samples": [
+        "Seamless confidence for every day \u2014 new men briefs."
+      ]
+    },
+    {
+      "campaign_name": "MEN -ignature Soft",
+      "ctr": 0.013639161771437334,
+      "roas": 0.8685082597341736,
+      "creative_message_samples": [
+        "Wire\u2011free ease, cloud\u2011soft cups \u2014 men inner vests that fits right.",
+        "All\u2011day comfort, zero pinch \u2014 try our men inner vests!"
+      ]
+    },
+    {
+      "campaign_name": "MEN B LD COLORS DROP",
+      "ctr": 0.008959646317373718,
+      "roas": 1.3963832416039537,
+      "creative_message_samples": [
+        "Ultra\u2011soft waistband, no marks \u2014 premium men inner vests."
+      ]
+    },
+    {
+      "campaign_name": "MEN BLD COLORS DROP",
+      "ctr": 0.010108711692655812,
+      "roas": 0.401488035391112,
+      "creative_message_samples": [
+        "All\u2011day comfort, zero pinch \u2014 try our men inner vests!"
+      ]
+    },
+    {
+      "campaign_name": "MEN BOL COLORS DROP",
+      "ctr": 0.004522264397371536,
+      "roas": 0.5543044139246052,
+      "creative_message_samples": [
+        "All\u2011day comfort, zero pinch \u2014 try our men boxers!"
+      ]
+    },
+    {
+      "campaign_name": "MEN BOLD  OLORS DROP",
+      "ctr": 0.006118959374048809,
+      "roas": 0.40713089781242284,
+      "creative_message_samples": [
+        "Push comfort, not wires \u2014 everyday men boxers."
+      ]
+    },
+    {
+      "campaign_name": "MEN BOLD COL RS DROP",
+      "ctr": 0.005382933217984764,
+      "roas": 0.2771732504267252,
+      "creative_message_samples": [
+        "Summer\u2011ready essentials \u2014 sweat\u2011wicking men boxers."
+      ]
+    },
+    {
+      "campaign_name": "MEN BOLD COLORS DROP",
+      "ctr": 0.009255450591229432,
+      "roas": 2.3614198110381253,
+      "creative_message_samples": [
+        "Doctors recommend breathable microfiber \u2014 meet our men briefs.",
+        "Cooling mesh panels for workouts \u2014 men trunks you\u2019ll actually love.",
+        "All\u2011day comfort, zero pinch \u2014 try our men inner vests!"
+      ]
+    },
+    {
+      "campaign_name": "MEN COMF RTMAX LAUNCH",
+      "ctr": 0.016242964529898388,
+      "roas": 3.7442369755647764,
+      "creative_message_samples": [
+        "Breathable microfiber that moves with you \u2014 limited offer on men trunks."
+      ]
+    },
+    {
+      "campaign_name": "MEN COMFORTMA LAUNCH",
+      "ctr": 0.009541503245487281,
+      "roas": 0.22057604773622677,
+      "creative_message_samples": [
+        "Invisible under tees \u2014 seamless men briefs."
+      ]
+    },
+    {
+      "campaign_name": "MEN COMFORTMAX  AUNCH",
+      "ctr": 0.017473509803800046,
+      "roas": 9.554115299252103,
+      "creative_message_samples": [
+        "Summer\u2011ready essentials \u2014 sweat\u2011wicking men trunks."
+      ]
+    },
+    {
+      "campaign_name": "MEN COMFORTMAX LAUNCH",
+      "ctr": 0.01640830560741187,
+      "roas": 11.550927641712285,
+      "creative_message_samples": [
+        "Seamless confidence for every day \u2014 new men athletic briefs.",
+        "Hot & comfy: men briefs now 20% off \u2014 feel the difference.",
+        "Push comfort, not wires \u2014 everyday men trunks."
+      ]
+    },
+    {
+      "campaign_name": "MEN PREM-UM MODAL",
+      "ctr": 0.014675091876198783,
+      "roas": 19.610709578674378,
+      "creative_message_samples": [
+        "Stretch that snaps back \u2014 durable men trunks."
+      ]
+    },
+    {
+      "campaign_name": "MEN PREMIUM -ODAL",
+      "ctr": 0.013125101658542727,
+      "roas": 89.3278570399193,
+      "creative_message_samples": [
+        "Invisible under tees \u2014 seamless men inner vests."
+      ]
+    },
+    {
+      "campaign_name": "MEN PREMIUM MOD-L",
+      "ctr": 0.005705687810982332,
+      "roas": 0.33835339863904884,
+      "creative_message_samples": [
+        "3\u2011pack deal ends tonight \u2014 upgrade your men drawer with boxers."
+      ]
+    },
+    {
+      "campaign_name": "MEN PREMIUM MODAL",
+      "ctr": 0.0108993821230063,
+      "roas": 11.806258128196493,
+      "creative_message_samples": [
+        "Seamless confidence for every day \u2014 new men boxers.",
+        "Ultra\u2011soft waistband, no marks \u2014 premium men briefs.",
+        "Confidence starts inside \u2014 elevate with men briefs."
+      ]
+    },
+    {
+      "campaign_name": "MEN SIGATURE SOFT",
+      "ctr": 0.016319727100050394,
+      "roas": 0.3626469472885855,
+      "creative_message_samples": [
+        "Confidence starts inside \u2014 elevate with men inner vests."
+      ]
+    },
+    {
+      "campaign_name": "MEN SIGNATUR  SOFT",
+      "ctr": 0.014678238826170554,
+      "roas": 1.6421717852876576,
+      "creative_message_samples": [
+        "Invisible under tees \u2014 seamless men boxers."
+      ]
+    },
+    {
+      "campaign_name": "MEN SIGNATURE S-FT",
+      "ctr": 0.014186057399690997,
+      "roas": 1.4838620769688264,
+      "creative_message_samples": [
+        "Summer\u2011ready essentials \u2014 sweat\u2011wicking men boxers."
+      ]
+    },
+    {
+      "campaign_name": "MEN SIGNATURE SOFT",
+      "ctr": 0.014843110140270966,
+      "roas": 2.3464525172199098,
+      "creative_message_samples": [
+        "No ride\u2011up guarantee \u2014 best\u2011selling men boxers back in stock.",
+        "Summer\u2011ready essentials \u2014 sweat\u2011wicking men trunks.",
+        "Ultra\u2011soft waistband, no marks \u2014 premium men trunks."
+      ]
+    },
+    {
+      "campaign_name": "MEN SIGNATURE SOT",
+      "ctr": 0.011767883528670314,
+      "roas": NaN,
+      "creative_message_samples": [
+        "Confidence starts inside \u2014 elevate with men inner vests."
+      ]
+    },
+    {
+      "campaign_name": "MEN Si nature Soft",
+      "ctr": 0.016323657798742564,
+      "roas": 1.701647108723314,
+      "creative_message_samples": [
+        "Breathable organic cotton that moves with you \u2014 limited offer on men trunks."
+      ]
+    },
+    {
+      "campaign_name": "MEN Sigature Soft",
+      "ctr": 0.01472289543239797,
+      "roas": 1.5931789721178664,
+      "creative_message_samples": [
+        "Ultra\u2011soft waistband, no marks \u2014 premium men boxers."
+      ]
+    },
+    {
+      "campaign_name": "MEN Sign-ture Soft",
+      "ctr": 0.014076568155250671,
+      "roas": 8.940069394291191,
+      "creative_message_samples": [
+        "Stretch that snaps back \u2014 durable men athletic briefs.",
+        "Breathable microfiber that moves with you \u2014 limited offer on men athletic briefs."
+      ]
+    },
+    {
+      "campaign_name": "MEN Signa-ure Soft",
+      "ctr": 0.021514667127489524,
+      "roas": 0.8957200826889213,
+      "creative_message_samples": [
+        "Breathable microfiber that moves with you \u2014 limited offer on men trunks."
+      ]
+    },
+    {
+      "campaign_name": "MEN Signatre Soft",
+      "ctr": 0.014901571501117905,
+      "roas": 2.965531686718724,
+      "creative_message_samples": [
+        "Seamless confidence for every day \u2014 new men trunks."
+      ]
+    },
+    {
+      "campaign_name": "MEN Signatu e Soft",
+      "ctr": 0.013162002095315473,
+      "roas": 0.4854525139664805,
+      "creative_message_samples": [
+        "Breathable bamboo that moves with you \u2014 limited offer on men trunks."
+      ]
+    },
+    {
+      "campaign_name": "MEN Signatue Soft",
+      "ctr": 0.01659236133727133,
+      "roas": 0.9335083998249335,
+      "creative_message_samples": [
+        "Doctors recommend breathable cotton \u2014 meet our men trunks."
+      ]
+    },
+    {
+      "campaign_name": "MEN Signature  oft",
+      "ctr": 0.012330645080296077,
+      "roas": 1.3867991390172199,
+      "creative_message_samples": [
+        "Breathable organic cotton that moves with you \u2014 limited offer on men athletic briefs."
+      ]
+    },
+    {
+      "campaign_name": "MEN Signature Sft",
+      "ctr": 0.012735324043775885,
+      "roas": 1.514176825768533,
+      "creative_message_samples": [
+        "Push comfort, not wires \u2014 everyday men inner vests."
+      ]
+    },
+    {
+      "campaign_name": "MEN Signature Soft",
+      "ctr": 0.014502981008469676,
+      "roas": 2.3755331483989766,
+      "creative_message_samples": [
+        "Wire\u2011free ease, cloud\u2011soft cups \u2014 men inner vests that fits right.",
+        "Cooling mesh panels for workouts \u2014 men briefs you\u2019ll actually love.",
+        "Wire\u2011free ease, cloud\u2011soft cups \u2014 men inner vests that fits right."
+      ]
+    },
+    {
+      "campaign_name": "MEN Signature Sot",
+      "ctr": 0.012317804499213101,
+      "roas": 0.9537101707569663,
+      "creative_message_samples": [
+        "Push comfort, not wires \u2014 everyday men briefs."
+      ]
+    },
+    {
+      "campaign_name": "MEN Signature-Soft",
+      "ctr": 0.018898393156927012,
+      "roas": 1.443551047336302,
+      "creative_message_samples": [
+        "Stretch that snaps back \u2014 durable men boxers."
+      ]
+    },
+    {
+      "campaign_name": "MEN Sinature Soft",
+      "ctr": 0.009806941397924736,
+      "roas": 1.8989499777834942,
+      "creative_message_samples": [
+        "Summer\u2011ready essentials \u2014 sweat\u2011wicking men briefs."
+      ]
+    },
+    {
+      "campaign_name": "MEN | ATHLEISURE COOLING",
+      "ctr": 0.022998019742860806,
+      "roas": 20.348690148686078,
+      "creative_message_samples": [
+        "Cooling mesh panels for workouts \u2014 men boxers you\u2019ll actually love.",
+        "3\u2011pack deal ends tonight \u2014 upgrade your men drawer with trunks.",
+        "3\u2011pack deal ends tonight \u2014 upgrade your men drawer with trunks."
+      ]
+    },
+    {
+      "campaign_name": "MEN | ATHLEISURECOOLING",
+      "ctr": 0.022955073729261723,
+      "roas": NaN,
+      "creative_message_samples": [
+        "Ultra\u2011soft waistband, no marks \u2014 premium men trunks."
+      ]
+    },
+    {
+      "campaign_name": "MEN-SIGNATURE SOFT",
+      "ctr": 0.011023622047244094,
+      "roas": 0.5861470922985204,
+      "creative_message_samples": [
+        "3\u2011pack deal ends tonight \u2014 upgrade your men drawer with boxers."
+      ]
+    },
+    {
+      "campaign_name": "MEN_ ignature_Soft",
+      "ctr": 0.02031419776356346,
+      "roas": 15.262068258686071,
+      "creative_message_samples": [
+        "Push comfort, not wires \u2014 everyday men briefs."
+      ]
+    },
+    {
+      "campaign_name": "MEN_Si nature_Soft",
+      "ctr": 0.014227904219398407,
+      "roas": 2.393798449612403,
+      "creative_message_samples": [
+        "Ultra\u2011soft waistband, no marks \u2014 premium men athletic briefs."
+      ]
+    },
+    {
+      "campaign_name": "MEN_Signa ure_Soft",
+      "ctr": 0.01659609625116183,
+      "roas": NaN,
+      "creative_message_samples": [
+        "Wire\u2011free ease, cloud\u2011soft cups \u2014 men boxers that fits right."
+      ]
+    },
+    {
+      "campaign_name": "MEN_Signatu e_Soft",
+      "ctr": 0.01355922056930767,
+      "roas": 2.062658457080768,
+      "creative_message_samples": [
+        "Stretch that snaps back \u2014 durable men trunks."
+      ]
+    },
+    {
+      "campaign_name": "MEN_Signature_S ft",
+      "ctr": 0.01186584332243613,
+      "roas": 0.33040873100791784,
+      "creative_message_samples": [
+        "Push comfort, not wires \u2014 everyday men trunks."
+      ]
+    },
+    {
+      "campaign_name": "MEN_Signature_Soft",
+      "ctr": 0.015562832490487828,
+      "roas": 2.2072850491908715,
+      "creative_message_samples": [
+        "All\u2011day comfort, zero pinch \u2014 try our men briefs!",
+        "Cooling mesh panels for workouts \u2014 men boxers you\u2019ll actually love.",
+        "All\u2011day comfort, zero pinch \u2014 try our men inner vests!"
+      ]
+    },
+    {
+      "campaign_name": "MEN| ATHLEISURE COOLING",
+      "ctr": 0.01697508225579982,
+      "roas": 3.147699916838097,
+      "creative_message_samples": [
+        "Breathable bamboo that moves with you \u2014 limited offer on men inner vests."
+      ]
+    },
+    {
+      "campaign_name": "Me   Premium  Modal",
+      "ctr": 0.006079735206968655,
+      "roas": 2.3341393611974106,
+      "creative_message_samples": [
+        "Doctors recommend breathable microfiber \u2014 meet our men briefs."
+      ]
+    },
+    {
+      "campaign_name": "Me  Premium Modal",
+      "ctr": 0.010529862690590515,
+      "roas": 6.15915393654524,
+      "creative_message_samples": [
+        "Wire\u2011free ease, cloud\u2011soft cups \u2014 men boxers that fits right."
+      ]
+    },
+    {
+      "campaign_name": "Me- Premium Modal",
+      "ctr": 0.012365758452605208,
+      "roas": 1.658730974320328,
+      "creative_message_samples": [
+        "Stretch that snaps back \u2014 durable men inner vests."
+      ]
+    },
+    {
+      "campaign_name": "Me- | Athleisure Cooling",
+      "ctr": 0.017753816116435926,
+      "roas": 16.329106508428453,
+      "creative_message_samples": [
+        "All\u2011day comfort, zero pinch \u2014 try our men boxers!"
+      ]
+    },
+    {
+      "campaign_name": "Me-_Bold_Colors_Drop",
+      "ctr": 0.011593044173495902,
+      "roas": 0.4230124743995532,
+      "creative_message_samples": [
+        "Hot & comfy: men boxers now 20% off \u2014 feel the difference."
+      ]
+    },
+    {
+      "campaign_name": "Men   Athleisure Cooling",
+      "ctr": 0.02149531495704836,
+      "roas": 10.143435227210587,
+      "creative_message_samples": [
+        "No ride\u2011up guarantee \u2014 best\u2011selling men athletic briefs back in stock."
+      ]
+    },
+    {
+      "campaign_name": "Men   old  Colors  Drop",
+      "ctr": 0.013194442854231405,
+      "roas": 22.052980554670068,
+      "creative_message_samples": [
+        "3\u2011pack deal ends tonight \u2014 upgrade your men drawer with athletic briefs."
+      ]
+    },
+    {
+      "campaign_name": "Men  Bold  Colors  Drop",
+      "ctr": 0.009781638612231315,
+      "roas": 2.9015209703332605,
+      "creative_message_samples": [
+        "Breathable cotton that moves with you \u2014 limited offer on men inner vests.",
+        "Confidence starts inside \u2014 elevate with men briefs.",
+        "3\u2011pack deal ends tonight \u2014 upgrade your men drawer with athletic briefs."
+      ]
+    },
+    {
+      "campaign_name": "Men  Bold  Coors  Drop",
+      "ctr": 0.007167298622029039,
+      "roas": 0.16723302322990363,
+      "creative_message_samples": [
+        "3\u2011pack deal ends tonight \u2014 upgrade your men drawer with inner vests."
+      ]
+    },
+    {
+      "campaign_name": "Men  C mfortMax  Launch",
+      "ctr": 0.018483084117336217,
+      "roas": 6.436591121694021,
+      "creative_message_samples": [
+        "Stretch that snaps back \u2014 durable men trunks."
+      ]
+    },
+    {
+      "campaign_name": "Men  C-mfortMax  Launch",
+      "ctr": 0.01364306784660767,
+      "roas": 20.655657242190294,
+      "creative_message_samples": [
+        "Wire\u2011free ease, cloud\u2011soft cups \u2014 men trunks that fits right."
+      ]
+    },
+    {
+      "campaign_name": "Men  Co fortMax  Launch",
+      "ctr": 0.0108535403883686,
+      "roas": 3.4178918292791587,
+      "creative_message_samples": [
+        "Summer\u2011ready essentials \u2014 sweat\u2011wicking men inner vests."
+      ]
+    },
+    {
+      "campaign_name": "Men  CofortMax  Launch",
+      "ctr": 0.023172784535186793,
+      "roas": 7.4631322112402305,
+      "creative_message_samples": [
+        "No ride\u2011up guarantee \u2014 best\u2011selling men briefs back in stock."
+      ]
+    },
+    {
+      "campaign_name": "Men  Comf rtMax  Launch",
+      "ctr": 0.014614348578610617,
+      "roas": 3.6415386056971513,
+      "creative_message_samples": [
+        "Doctors recommend breathable bamboo \u2014 meet our men athletic briefs."
+      ]
+    },
+    {
+      "campaign_name": "Men  ComfortMa-  Launch",
+      "ctr": 0.015429175417644717,
+      "roas": 3.167350206466474,
+      "creative_message_samples": [
+        "Wire\u2011free ease, cloud\u2011soft cups \u2014 men trunks that fits right."
+      ]
+    },
+    {
+      "campaign_name": "Men  ComfortMax  Launch",
+      "ctr": 0.014468106664148064,
+      "roas": 10.886888229705754,
+      "creative_message_samples": [
+        "Cooling mesh panels for workouts \u2014 men boxers you\u2019ll actually love.",
+        "Summer\u2011ready essentials \u2014 sweat\u2011wicking men athletic briefs.",
+        "No ride\u2011up guarantee \u2014 best\u2011selling men briefs back in stock."
+      ]
+    },
+    {
+      "campaign_name": "Men  Premium  Modal",
+      "ctr": 0.011261378408269011,
+      "roas": 8.206052957220264,
+      "creative_message_samples": [
+        "No ride\u2011up guarantee \u2014 best\u2011selling men inner vests back in stock.",
+        "Ultra\u2011soft waistband, no marks \u2014 premium men trunks.",
+        "Seamless confidence for every day \u2014 new men trunks."
+      ]
+    },
+    {
+      "campaign_name": "Men  old  Colors  Drop",
+      "ctr": 0.010076545575411567,
+      "roas": 4.318529053230394,
+      "creative_message_samples": [
+        "Summer\u2011ready essentials \u2014 sweat\u2011wicking men inner vests."
+      ]
+    },
+    {
+      "campaign_name": "Men  remium  Modal",
+      "ctr": 0.013121699813450533,
+      "roas": 6.746178893820179,
+      "creative_message_samples": [
+        "Cooling mesh panels for workouts \u2014 men boxers you\u2019ll actually love."
+      ]
+    },
+    {
+      "campaign_name": "Men  remium Modal",
+      "ctr": 0.010426719799093013,
+      "roas": 6.28859970177579,
+      "creative_message_samples": [
+        "Wire\u2011free ease, cloud\u2011soft cups \u2014 men athletic briefs that fits right."
+      ]
+    },
+    {
+      "campaign_name": "Men  |  Athlei ure  Cooling",
+      "ctr": 0.022048482826019594,
+      "roas": 29.917496443812233,
+      "creative_message_samples": [
+        "Doctors recommend breathable bamboo \u2014 meet our men boxers."
+      ]
+    },
+    {
+      "campaign_name": "Men  |  Athleisure  Co ling",
+      "ctr": 0.02502565786772856,
+      "roas": 24.008165327942976,
+      "creative_message_samples": [
+        "Confidence starts inside \u2014 elevate with men briefs."
+      ]
+    },
+    {
+      "campaign_name": "Men  |  Athleisure  Coling",
+      "ctr": 0.020029311187103077,
+      "roas": 1.362903757054083,
+      "creative_message_samples": [
+        "Ultra\u2011soft waistband, no marks \u2014 premium men athletic briefs."
+      ]
+    },
+    {
+      "campaign_name": "Men  |  Athleisure  Cooling",
+      "ctr": 0.022282834889649644,
+      "roas": 20.00121384690108,
+      "creative_message_samples": [
+        "Stretch that snaps back \u2014 durable men boxers.",
+        "Wire\u2011free ease, cloud\u2011soft cups \u2014 men athletic briefs that fits right.",
+        "Hot & comfy: men trunks now 20% off \u2014 feel the difference."
+      ]
+    },
+    {
+      "campaign_name": "Men  |  Athleisure Cooling",
+      "ctr": 0.025889232779134328,
+      "roas": 31.85902845396516,
+      "creative_message_samples": [
+        "Cooling mesh panels for workouts \u2014 men briefs you\u2019ll actually love."
+      ]
+    },
+    {
+      "campaign_name": "Men -old Colors Drop",
+      "ctr": 0.008339308861248241,
+      "roas": 2.144072725046678,
+      "creative_message_samples": [
+        "No ride\u2011up guarantee \u2014 best\u2011selling men inner vests back in stock."
+      ]
+    },
+    {
+      "campaign_name": "Men -remium Modal",
+      "ctr": 0.0112073055028463,
+      "roas": 1.350768517291639,
+      "creative_message_samples": [
+        "Breathable modal that moves with you \u2014 limited offer on men inner vests."
+      ]
+    },
+    {
+      "campaign_name": "Men -|  Athleisure  Cooling",
+      "ctr": NaN,
+      "roas": NaN,
+      "creative_message_samples": [
+        "Wire\u2011free ease, cloud\u2011soft cups \u2014 men briefs that fits right."
+      ]
+    },
+    {
+      "campaign_name": "Men B ld Colors Drop",
+      "ctr": 0.011996238494882678,
+      "roas": 5.9781731351315,
+      "creative_message_samples": [
+        "Cooling mesh panels for workouts \u2014 men athletic briefs you\u2019ll actually love."
+      ]
+    },
+    {
+      "campaign_name": "Men B-ld Colors Drop",
+      "ctr": 0.006624495328601204,
+      "roas": 0.9135719298245614,
+      "creative_message_samples": [
+        "Ultra\u2011soft waistband, no marks \u2014 premium men briefs."
+      ]
+    },
+    {
+      "campaign_name": "Men Bol Colors Drop",
+      "ctr": 0.009592602901541741,
+      "roas": 1.421192243630606,
+      "creative_message_samples": [
+        "No ride\u2011up guarantee \u2014 best\u2011selling men briefs back in stock."
+      ]
+    },
+    {
+      "campaign_name": "Men Bold -olors Drop",
+      "ctr": 0.00927172053140561,
+      "roas": 2.171722079544666,
+      "creative_message_samples": [
+        "Confidence starts inside \u2014 elevate with men briefs."
+      ]
+    },
+    {
+      "campaign_name": "Men Bold C-lors Drop",
+      "ctr": 0.01304051737045212,
+      "roas": 0.6239101057035487,
+      "creative_message_samples": [
+        "All\u2011day comfort, zero pinch \u2014 try our men inner vests!"
+      ]
+    },
+    {
+      "campaign_name": "Men Bold Col-rs Drop",
+      "ctr": 0.008391543717630675,
+      "roas": 15.990214592274677,
+      "creative_message_samples": [
+        "Breathable microfiber that moves with you \u2014 limited offer on men boxers."
+      ]
+    },
+    {
+      "campaign_name": "Men Bold Colo s Drop",
+      "ctr": 0.011618189688053107,
+      "roas": 3.742497438149612,
+      "creative_message_samples": [
+        "All\u2011day comfort, zero pinch \u2014 try our men boxers!"
+      ]
+    },
+    {
+      "campaign_name": "Men Bold Colo-s Drop",
+      "ctr": 0.012331986677143235,
+      "roas": 4.760019083969466,
+      "creative_message_samples": [
+        "Doctors recommend breathable microfiber \u2014 meet our men trunks."
+      ]
+    },
+    {
+      "campaign_name": "Men Bold Color- Drop",
+      "ctr": 0.011356000537562156,
+      "roas": 0.3220789850624105,
+      "creative_message_samples": [
+        "Stretch that snaps back \u2014 durable men athletic briefs."
+      ]
+    },
+    {
+      "campaign_name": "Men Bold Colors  rop",
+      "ctr": 0.01177797684217511,
+      "roas": 0.7411556177201147,
+      "creative_message_samples": [
+        "Seamless confidence for every day \u2014 new men inner vests."
+      ]
+    },
+    {
+      "campaign_name": "Men Bold Colors Dr p",
+      "ctr": 0.008890469416785207,
+      "roas": 0.23506908217142491,
+      "creative_message_samples": [
+        "Seamless confidence for every day \u2014 new men boxers."
+      ]
+    },
+    {
+      "campaign_name": "Men Bold Colors Drop",
+      "ctr": 0.00903881031045476,
+      "roas": 2.7488028746463247,
+      "creative_message_samples": [
+        "Push comfort, not wires \u2014 everyday men inner vests.",
+        "Cooling mesh panels for workouts \u2014 men briefs you\u2019ll actually love.",
+        "Hot & comfy: men athletic briefs now 20% off \u2014 feel the difference."
+      ]
+    },
+    {
+      "campaign_name": "Men Bold Colors-Drop",
+      "ctr": 0.012567522658313226,
+      "roas": 7.03553391598875,
+      "creative_message_samples": [
+        "Hot & comfy: men athletic briefs now 20% off \u2014 feel the difference."
+      ]
+    },
+    {
+      "campaign_name": "Men BoldColors Drop",
+      "ctr": 0.006098016993907736,
+      "roas": 0.50751676817516,
+      "creative_message_samples": [
+        "Wire\u2011free ease, cloud\u2011soft cups \u2014 men inner vests that fits right."
+      ]
+    },
+    {
+      "campaign_name": "Men Comf-rtMax Launch",
+      "ctr": 0.015410949002685819,
+      "roas": 10.719938355380371,
+      "creative_message_samples": [
+        "Stretch that snaps back \u2014 durable men trunks.",
+        "Stretch that snaps back \u2014 durable men briefs.",
+        "All\u2011day comfort, zero pinch \u2014 try our men boxers!"
+      ]
+    },
+    {
+      "campaign_name": "Men Comfo tMax Launch",
+      "ctr": 0.014838454775127711,
+      "roas": 5.713231325758128,
+      "creative_message_samples": [
+        "Doctors recommend breathable bamboo \u2014 meet our men briefs."
+      ]
+    },
+    {
+      "campaign_name": "Men Comfo tmax Launch",
+      "ctr": 0.022259186064702334,
+      "roas": 24.304660529344076,
+      "creative_message_samples": [
+        "Summer\u2011ready essentials \u2014 sweat\u2011wicking men briefs."
+      ]
+    },
+    {
+      "campaign_name": "Men ComforMax Launch",
+      "ctr": 0.01950511807850407,
+      "roas": 20.877585080908496,
+      "creative_message_samples": [
+        "Doctors recommend breathable microfiber \u2014 meet our men trunks."
+      ]
+    },
+    {
+      "campaign_name": "Men Comfort-ax Launch",
+      "ctr": 0.016927842840952022,
+      "roas": 28.2487861947938,
+      "creative_message_samples": [
+        "Stretch that snaps back \u2014 durable men trunks."
+      ]
+    },
+    {
+      "campaign_name": "Men ComfortMax L unch",
+      "ctr": 0.015445509975407093,
+      "roas": 5.526134159550619,
+      "creative_message_samples": [
+        "Stretch that snaps back \u2014 durable men briefs."
+      ]
+    },
+    {
+      "campaign_name": "Men ComfortMax Lau-ch",
+      "ctr": 0.011667050029205369,
+      "roas": 4.07383378848785,
+      "creative_message_samples": [
+        "Ultra\u2011soft waistband, no marks \u2014 premium men briefs.",
+        "Wire\u2011free ease, cloud\u2011soft cups \u2014 men inner vests that fits right."
+      ]
+    },
+    {
+      "campaign_name": "Men ComfortMax Launch",
+      "ctr": 0.01529353620735112,
+      "roas": 12.053393269590641,
+      "creative_message_samples": [
+        "Breathable organic cotton that moves with you \u2014 limited offer on men briefs.",
+        "No ride\u2011up guarantee \u2014 best\u2011selling men briefs back in stock.",
+        "Seamless confidence for every day \u2014 new men athletic briefs."
+      ]
+    },
+    {
+      "campaign_name": "Men ComfortMax Lunch",
+      "ctr": 0.012934590827737652,
+      "roas": NaN,
+      "creative_message_samples": [
+        "No ride\u2011up guarantee \u2014 best\u2011selling men athletic briefs back in stock."
+      ]
+    },
+    {
+      "campaign_name": "Men ComfortMax_Launch",
+      "ctr": 0.01641484543933851,
+      "roas": 6.644219035997559,
+      "creative_message_samples": [
+        "Summer\u2011ready essentials \u2014 sweat\u2011wicking men briefs."
+      ]
+    },
+    {
+      "campaign_name": "Men Comfortma- Launch",
+      "ctr": 0.014473497137096253,
+      "roas": 37.112324723247234,
+      "creative_message_samples": [
+        "All\u2011day comfort, zero pinch \u2014 try our men athletic briefs!"
+      ]
+    },
+    {
+      "campaign_name": "Men Comfortmax Lau ch",
+      "ctr": 0.023341990589309195,
+      "roas": 22.61064680232558,
+      "creative_message_samples": [
+        "Confidence starts inside \u2014 elevate with men inner vests."
+      ]
+    },
+    {
+      "campaign_name": "Men Comfortmax Launch",
+      "ctr": 0.016628994776150808,
+      "roas": 8.036342865341439,
+      "creative_message_samples": [
+        "Breathable bamboo that moves with you \u2014 limited offer on men boxers.",
+        "Cooling mesh panels for workouts \u2014 men boxers you\u2019ll actually love.",
+        "Invisible under tees \u2014 seamless men boxers."
+      ]
+    },
+    {
+      "campaign_name": "Men Comfortmax Lunch",
+      "ctr": 0.019189595211620808,
+      "roas": 5.37995038595696,
+      "creative_message_samples": [
+        "Push comfort, not wires \u2014 everyday men boxers."
+      ]
+    },
+    {
+      "campaign_name": "Men Pr-mium Modal",
+      "ctr": NaN,
+      "roas": 20.282087593257806,
+      "creative_message_samples": [
+        "No ride\u2011up guarantee \u2014 best\u2011selling men boxers back in stock."
+      ]
+    },
+    {
+      "campaign_name": "Men Pre ium Modal",
+      "ctr": 0.010851717578969616,
+      "roas": 4.502903060987506,
+      "creative_message_samples": [
+        "Breathable cotton that moves with you \u2014 limited offer on men athletic briefs."
+      ]
+    },
+    {
+      "campaign_name": "Men Prem um Modal",
+      "ctr": 0.0077402709094818315,
+      "roas": 0.333033303330333,
+      "creative_message_samples": [
+        "Invisible under tees \u2014 seamless men inner vests."
+      ]
+    },
+    {
+      "campaign_name": "Men Premiu- Modal",
+      "ctr": NaN,
+      "roas": 4.031911911911912,
+      "creative_message_samples": [
+        "Hot & comfy: men trunks now 20% off \u2014 feel the difference."
+      ]
+    },
+    {
+      "campaign_name": "Men Premium -odal",
+      "ctr": 0.00655330159562324,
+      "roas": 1.5877917480918846,
+      "creative_message_samples": [
+        "Breathable microfiber that moves with you \u2014 limited offer on men trunks."
+      ]
+    },
+    {
+      "campaign_name": "Men Premium M-dal",
+      "ctr": 0.00979369339646476,
+      "roas": 2.6538429511199935,
+      "creative_message_samples": [
+        "Wire\u2011free ease, cloud\u2011soft cups \u2014 men inner vests that fits right."
+      ]
+    },
+    {
+      "campaign_name": "Men Premium Mod-l",
+      "ctr": 0.0100608862696578,
+      "roas": 2.714872722043022,
+      "creative_message_samples": [
+        "Wire\u2011free ease, cloud\u2011soft cups \u2014 men trunks that fits right."
+      ]
+    },
+    {
+      "campaign_name": "Men Premium Modal",
+      "ctr": 0.0107636947879899,
+      "roas": 9.547024892633178,
+      "creative_message_samples": [
+        "Ultra\u2011soft waistband, no marks \u2014 premium men briefs.",
+        "Summer\u2011ready essentials \u2014 sweat\u2011wicking men briefs.",
+        "3\u2011pack deal ends tonight \u2014 upgrade your men drawer with athletic briefs."
+      ]
+    },
+    {
+      "campaign_name": "Men Sig-ature Soft",
+      "ctr": 0.01280082296179313,
+      "roas": 5.34559526084464,
+      "creative_message_samples": [
+        "Invisible under tees \u2014 seamless men inner vests."
+      ]
+    },
+    {
+      "campaign_name": "Men Sigature Soft",
+      "ctr": 0.014339548331080658,
+      "roas": 3.896432299079609,
+      "creative_message_samples": [
+        "Wire\u2011free ease, cloud\u2011soft cups \u2014 men inner vests that fits right."
+      ]
+    },
+    {
+      "campaign_name": "Men Signature Soft",
+      "ctr": 0.014000407031862677,
+      "roas": 2.2432622265901907,
+      "creative_message_samples": [
+        "Ultra\u2011soft waistband, no marks \u2014 premium men boxers.",
+        "Seamless confidence for every day \u2014 new men boxers.",
+        "Hot & comfy: men briefs now 20% off \u2014 feel the difference."
+      ]
+    },
+    {
+      "campaign_name": "Men Signture Soft",
+      "ctr": 0.014446996252870785,
+      "roas": 5.351507450617997,
+      "creative_message_samples": [
+        "Doctors recommend breathable organic cotton \u2014 meet our men boxers."
+      ]
+    },
+    {
+      "campaign_name": "Men remium Modal",
+      "ctr": 0.008443875466456023,
+      "roas": 2.6077011131286016,
+      "creative_message_samples": [
+        "Wire\u2011free ease, cloud\u2011soft cups \u2014 men boxers that fits right."
+      ]
+    },
+    {
+      "campaign_name": "Men | Ath eisure Cooling",
+      "ctr": 0.022644867223960825,
+      "roas": 11.269290174532777,
+      "creative_message_samples": [
+        "Breathable organic cotton that moves with you \u2014 limited offer on men inner vests."
+      ]
+    },
+    {
+      "campaign_name": "Men | Athlei ure Cooling",
+      "ctr": 0.01865216034342096,
+      "roas": 85.3288523148439,
+      "creative_message_samples": [
+        "No ride\u2011up guarantee \u2014 best\u2011selling men athletic briefs back in stock."
+      ]
+    },
+    {
+      "campaign_name": "Men | Athlei-ure Cooling",
+      "ctr": 0.02541763042919558,
+      "roas": 10.85345127812217,
+      "creative_message_samples": [
+        "Hot & comfy: men briefs now 20% off \u2014 feel the difference."
+      ]
+    },
+    {
+      "campaign_name": "Men | Athleis re Cooling",
+      "ctr": 0.014031070774778363,
+      "roas": 26.069552617279477,
+      "creative_message_samples": [
+        "Ultra\u2011soft waistband, no marks \u2014 premium men athletic briefs."
+      ]
+    },
+    {
+      "campaign_name": "Men | Athleisur- Cooling",
+      "ctr": 0.020398059213783543,
+      "roas": 5.85045875052347,
+      "creative_message_samples": [
+        "Cooling mesh panels for workouts \u2014 men trunks you\u2019ll actually love."
+      ]
+    },
+    {
+      "campaign_name": "Men | Athleisure Cooling",
+      "ctr": 0.02087163631123257,
+      "roas": 20.44021092785133,
+      "creative_message_samples": [
+        "Breathable microfiber that moves with you \u2014 limited offer on men athletic briefs.",
+        "Ultra\u2011soft waistband, no marks \u2014 premium men boxers.",
+        "Wire\u2011free ease, cloud\u2011soft cups \u2014 men trunks that fits right."
+      ]
+    },
+    {
+      "campaign_name": "Men | thleisure Cooling",
+      "ctr": 0.024693617185788476,
+      "roas": 34.36844344841281,
+      "creative_message_samples": [
+        "Invisible under tees \u2014 seamless men boxers."
+      ]
+    },
+    {
+      "campaign_name": "Men |Athleisure Cooling",
+      "ctr": 0.020789802626502676,
+      "roas": 22.89206231454006,
+      "creative_message_samples": [
+        "Stretch that snaps back \u2014 durable men trunks."
+      ]
+    },
+    {
+      "campaign_name": "Men- Premium  Modal",
+      "ctr": 0.008135633677677731,
+      "roas": 13.828397015600272,
+      "creative_message_samples": [
+        "All\u2011day comfort, zero pinch \u2014 try our men boxers!"
+      ]
+    },
+    {
+      "campaign_name": "Men-Athleisure Cooli-g",
+      "ctr": 0.025554251434533125,
+      "roas": NaN,
+      "creative_message_samples": [
+        "Hot & comfy: men boxers now 20% off \u2014 feel the difference."
+      ]
+    },
+    {
+      "campaign_name": "Men-Athleisure Cooling",
+      "ctr": 0.020033365295957135,
+      "roas": 20.738004061955728,
+      "creative_message_samples": [
+        "Summer\u2011ready essentials \u2014 sweat\u2011wicking men briefs.",
+        "Doctors recommend breathable bamboo \u2014 meet our men athletic briefs.",
+        "3\u2011pack deal ends tonight \u2014 upgrade your men drawer with boxers."
+      ]
+    },
+    {
+      "campaign_name": "Men-Bold Colors Drop",
+      "ctr": 0.013990645092323657,
+      "roas": 0.8733139105923304,
+      "creative_message_samples": [
+        "Hot & comfy: men athletic briefs now 20% off \u2014 feel the difference."
+      ]
+    },
+    {
+      "campaign_name": "Men-Comfortmax Launch",
+      "ctr": 0.017650410242617223,
+      "roas": 2.740031157314479,
+      "creative_message_samples": [
+        "Cooling mesh panels for workouts \u2014 men boxers you\u2019ll actually love."
+      ]
+    },
+    {
+      "campaign_name": "Men-Premium Modal",
+      "ctr": 0.009854735456035412,
+      "roas": 10.065953093026916,
+      "creative_message_samples": [
+        "Hot & comfy: men briefs now 20% off \u2014 feel the difference."
+      ]
+    },
+    {
+      "campaign_name": "Men-thleisure Cooling",
+      "ctr": 0.028475146581773487,
+      "roas": 5.498921982662814,
+      "creative_message_samples": [
+        "3\u2011pack deal ends tonight \u2014 upgrade your men drawer with briefs."
+      ]
+    },
+    {
+      "campaign_name": "MenComfortmax Launch",
+      "ctr": 0.01713919722034383,
+      "roas": 3.142770922024034,
+      "creative_message_samples": [
+        "Wire\u2011free ease, cloud\u2011soft cups \u2014 men trunks that fits right."
+      ]
+    },
+    {
+      "campaign_name": "Men_Bold_Co ors_Drop",
+      "ctr": 0.01299876566622417,
+      "roas": 8.780760969622584,
+      "creative_message_samples": [
+        "Summer\u2011ready essentials \u2014 sweat\u2011wicking men athletic briefs."
+      ]
+    },
+    {
+      "campaign_name": "Men_Bold_Colors_Drop",
+      "ctr": 0.009316945101066869,
+      "roas": 2.664008395065987,
+      "creative_message_samples": [
+        "Seamless confidence for every day \u2014 new men briefs.",
+        "All\u2011day comfort, zero pinch \u2014 try our men trunks!",
+        "Confidence starts inside \u2014 elevate with men athletic briefs."
+      ]
+    },
+    {
+      "campaign_name": "Men_Co fortMax_Launch",
+      "ctr": 0.022685218133940643,
+      "roas": 3.1887421531088016,
+      "creative_message_samples": [
+        "Breathable modal that moves with you \u2014 limited offer on men athletic briefs."
+      ]
+    },
+    {
+      "campaign_name": "Men_Com-ortMax_Launch",
+      "ctr": 0.016794936628844147,
+      "roas": 6.234054072344602,
+      "creative_message_samples": [
+        "Doctors recommend breathable bamboo \u2014 meet our men boxers."
+      ]
+    },
+    {
+      "campaign_name": "Men_Comf-rtMax_Launch",
+      "ctr": 0.01467124620911889,
+      "roas": NaN,
+      "creative_message_samples": [
+        "Cooling mesh panels for workouts \u2014 men boxers you\u2019ll actually love."
+      ]
+    },
+    {
+      "campaign_name": "Men_ComfortMax_Launch",
+      "ctr": 0.015638889808538878,
+      "roas": 10.700332782470095,
+      "creative_message_samples": [
+        "Cooling mesh panels for workouts \u2014 men athletic briefs you\u2019ll actually love.",
+        "Wire\u2011free ease, cloud\u2011soft cups \u2014 men inner vests that fits right.",
+        "No ride\u2011up guarantee \u2014 best\u2011selling men trunks back in stock."
+      ]
+    },
+    {
+      "campaign_name": "Men_Premium_Modal",
+      "ctr": 0.010727674876829251,
+      "roas": 6.916600266995454,
+      "creative_message_samples": [
+        "Summer\u2011ready essentials \u2014 sweat\u2011wicking men trunks.",
+        "Seamless confidence for every day \u2014 new men boxers.",
+        "Breathable modal that moves with you \u2014 limited offer on men athletic briefs."
+      ]
+    },
+    {
+      "campaign_name": "Men_|_Athleisure_Cooling",
+      "ctr": 0.021788731045714313,
+      "roas": 20.285712039723084,
+      "creative_message_samples": [
+        "Stretch that snaps back \u2014 durable men athletic briefs.",
+        "Breathable modal that moves with you \u2014 limited offer on men athletic briefs.",
+        "Summer\u2011ready essentials \u2014 sweat\u2011wicking men inner vests."
+      ]
+    },
+    {
+      "campaign_name": "Men_|_Athleiure_Cooling",
+      "ctr": 0.02122413757679111,
+      "roas": 13.153346016348546,
+      "creative_message_samples": [
+        "Seamless confidence for every day \u2014 new men boxers."
+      ]
+    },
+    {
+      "campaign_name": "Men_|_Atleisure_Cooling",
+      "ctr": 0.017206363930232886,
+      "roas": 7.9154491017964075,
+      "creative_message_samples": [
+        "All\u2011day comfort, zero pinch \u2014 try our men athletic briefs!"
+      ]
+    },
+    {
+      "campaign_name": "Mn ComfortMax Launch",
+      "ctr": 0.015143492534152283,
+      "roas": 8.290133638536371,
+      "creative_message_samples": [
+        "Push comfort, not wires \u2014 everyday men athletic briefs."
+      ]
+    },
+    {
+      "campaign_name": "W MEN Cotton Classics",
+      "ctr": 0.008845944737997899,
+      "roas": 15.443971179491264,
+      "creative_message_samples": [
+        "3\u2011pack deal ends tonight \u2014 upgrade your women drawer with sports bras."
+      ]
+    },
+    {
+      "campaign_name": "W MEN FIT & LIFT",
+      "ctr": 0.015525074525968852,
+      "roas": 4.855580687346761,
+      "creative_message_samples": [
+        "3\u2011pack deal ends tonight \u2014 upgrade your women drawer with bras.",
+        "Summer\u2011ready essentials \u2014 sweat\u2011wicking women bras."
+      ]
+    },
+    {
+      "campaign_name": "W men Fit & Lift",
+      "ctr": 0.02105911431854442,
+      "roas": 19.51568773234201,
+      "creative_message_samples": [
+        "All\u2011day comfort, zero pinch \u2014 try our women sports bras!"
+      ]
+    },
+    {
+      "campaign_name": "W men Summer Invisible",
+      "ctr": 0.008323810225974122,
+      "roas": 1.0644824562624393,
+      "creative_message_samples": [
+        "No ride\u2011up guarantee \u2014 best\u2011selling women bras back in stock."
+      ]
+    },
+    {
+      "campaign_name": "W men-Studio Sports",
+      "ctr": 0.01162273467346309,
+      "roas": 38.05004020243106,
+      "creative_message_samples": [
+        "Hot & comfy: women sports bras now 20% off \u2014 feel the difference."
+      ]
+    },
+    {
+      "campaign_name": "W-men  |  Studio  Sports",
+      "ctr": 0.018065819418518425,
+      "roas": 5.622335456475583,
+      "creative_message_samples": [
+        "Invisible under tees \u2014 seamless women bras."
+      ]
+    },
+    {
+      "campaign_name": "W-men Fit & Lift",
+      "ctr": 0.02055803769565346,
+      "roas": 4.757378383879503,
+      "creative_message_samples": [
+        "Stretch that snaps back \u2014 durable women sports bras."
+      ]
+    },
+    {
+      "campaign_name": "WMEN Cotton Classics",
+      "ctr": 0.012659816408175009,
+      "roas": 10.964991466810384,
+      "creative_message_samples": [
+        "No ride\u2011up guarantee \u2014 best\u2011selling women panties back in stock."
+      ]
+    },
+    {
+      "campaign_name": "WMEN Seamless Everyday",
+      "ctr": 0.009822545939084009,
+      "roas": 31.144606078064232,
+      "creative_message_samples": [
+        "Summer\u2011ready essentials \u2014 sweat\u2011wicking women sports bras."
+      ]
+    },
+    {
+      "campaign_name": "WOEN  Cotton  Classics",
+      "ctr": 0.005438850577767148,
+      "roas": 2.6739841624117164,
+      "creative_message_samples": [
+        "Breathable microfiber that moves with you \u2014 limited offer on women sports bras."
+      ]
+    },
+    {
+      "campaign_name": "WOEN FIT & LIFT",
+      "ctr": 0.006851985764317212,
+      "roas": 1.1849070100143062,
+      "creative_message_samples": [
+        "Seamless confidence for every day \u2014 new women wire\u2011free bras."
+      ]
+    },
+    {
+      "campaign_name": "WOM N FIT & LIFT",
+      "ctr": 0.022847166588569615,
+      "roas": 0.7235067324481735,
+      "creative_message_samples": [
+        "Stretch that snaps back \u2014 durable women panties."
+      ]
+    },
+    {
+      "campaign_name": "WOME SEAMLESS EVERYDAY",
+      "ctr": 0.011343942019851899,
+      "roas": 1.4331345688960515,
+      "creative_message_samples": [
+        "Ultra\u2011soft waistband, no marks \u2014 premium women panties."
+      ]
+    },
+    {
+      "campaign_name": "WOMEN  -eamless  Everyday",
+      "ctr": 0.00972173380372761,
+      "roas": 12.67899696285336,
+      "creative_message_samples": [
+        "3\u2011pack deal ends tonight \u2014 upgrade your women drawer with bras."
+      ]
+    },
+    {
+      "campaign_name": "WOMEN  Cotto-  Classics",
+      "ctr": 0.015466603775738049,
+      "roas": 25.933952639209583,
+      "creative_message_samples": [
+        "All\u2011day comfort, zero pinch \u2014 try our women boyshorts!"
+      ]
+    },
+    {
+      "campaign_name": "WOMEN  Cotton  Cl-ssics",
+      "ctr": 0.012202785724335224,
+      "roas": 12.448991760624459,
+      "creative_message_samples": [
+        "Stretch that snaps back \u2014 durable women wire\u2011free bras."
+      ]
+    },
+    {
+      "campaign_name": "WOMEN  Cotton  Cla-sics",
+      "ctr": 0.012377514182568335,
+      "roas": 2.999850735129487,
+      "creative_message_samples": [
+        "All\u2011day comfort, zero pinch \u2014 try our women wire\u2011free bras!"
+      ]
+    },
+    {
+      "campaign_name": "WOMEN  Cotton  Classics",
+      "ctr": 0.010639876251971889,
+      "roas": 12.70349765591591,
+      "creative_message_samples": [
+        "Push comfort, not wires \u2014 everyday women boyshorts.",
+        "Wire\u2011free ease, cloud\u2011soft cups \u2014 women bras that fits right.",
+        "Breathable microfiber that moves with you \u2014 limited offer on women bras."
+      ]
+    },
+    {
+      "campaign_name": "WOMEN  Seamles   Everyday",
+      "ctr": 0.009103326885525436,
+      "roas": 4.515565161339248,
+      "creative_message_samples": [
+        "No ride\u2011up guarantee \u2014 best\u2011selling women panties back in stock."
+      ]
+    },
+    {
+      "campaign_name": "WOMEN  Seamless  Eve yday",
+      "ctr": 0.012377642137279722,
+      "roas": 5.775744934961531,
+      "creative_message_samples": [
+        "3\u2011pack deal ends tonight \u2014 upgrade your women drawer with sports bras."
+      ]
+    },
+    {
+      "campaign_name": "WOMEN  Seamless  Everyday",
+      "ctr": 0.007620871540040146,
+      "roas": 7.5171408362288155,
+      "creative_message_samples": [
+        "Hot & comfy: women wire\u2011free bras now 20% off \u2014 feel the difference.",
+        "Cooling mesh panels for workouts \u2014 women panties you\u2019ll actually love.",
+        "3\u2011pack deal ends tonight \u2014 upgrade your women drawer with sports bras."
+      ]
+    },
+    {
+      "campaign_name": "WOMEN  Seamless- Everyday",
+      "ctr": 0.010650615546156263,
+      "roas": 2.929701518666025,
+      "creative_message_samples": [
+        "No ride\u2011up guarantee \u2014 best\u2011selling women wire\u2011free bras back in stock.",
+        "Seamless confidence for every day \u2014 new women bras."
+      ]
+    },
+    {
+      "campaign_name": "WOMEN C tton Classics",
+      "ctr": 0.01092586832364257,
+      "roas": 10.943252785467227,
+      "creative_message_samples": [
+        "3\u2011pack deal ends tonight \u2014 upgrade your women drawer with wire\u2011free bras.",
+        "All\u2011day comfort, zero pinch \u2014 try our women boyshorts!"
+      ]
+    },
+    {
+      "campaign_name": "WOMEN COTTON CLASS-CS",
+      "ctr": 0.012295672499639775,
+      "roas": 20.10484805030059,
+      "creative_message_samples": [
+        "Cooling mesh panels for workouts \u2014 women bras you\u2019ll actually love."
+      ]
+    },
+    {
+      "campaign_name": "WOMEN COTTON CLASSICS",
+      "ctr": 0.010953680187945427,
+      "roas": 9.996782811657141,
+      "creative_message_samples": [
+        "Wire\u2011free ease, cloud\u2011soft cups \u2014 women boyshorts that fits right.",
+        "Cooling mesh panels for workouts \u2014 women sports bras you\u2019ll actually love.",
+        "Stretch that snaps back \u2014 durable women boyshorts."
+      ]
+    },
+    {
+      "campaign_name": "WOMEN COTTON CLASSIS",
+      "ctr": 0.009612529156179092,
+      "roas": 4.690904717434983,
+      "creative_message_samples": [
+        "No ride\u2011up guarantee \u2014 best\u2011selling women bras back in stock."
+      ]
+    },
+    {
+      "campaign_name": "WOMEN COTTON LASSICS",
+      "ctr": 0.010197763071326289,
+      "roas": 11.186554132712457,
+      "creative_message_samples": [
+        "Stretch that snaps back \u2014 durable women boyshorts."
+      ]
+    },
+    {
+      "campaign_name": "WOMEN Cot-on Classics",
+      "ctr": 0.0095169344477264,
+      "roas": 4.667916602731318,
+      "creative_message_samples": [
+        "3\u2011pack deal ends tonight \u2014 upgrade your women drawer with sports bras."
+      ]
+    },
+    {
+      "campaign_name": "WOMEN Coton Classics",
+      "ctr": 0.01228100604994925,
+      "roas": 12.028193908555847,
+      "creative_message_samples": [
+        "Wire\u2011free ease, cloud\u2011soft cups \u2014 women sports bras that fits right.",
+        "3\u2011pack deal ends tonight \u2014 upgrade your women drawer with panties."
+      ]
+    },
+    {
+      "campaign_name": "WOMEN Cotton Cla-sics",
+      "ctr": 0.011003685700550185,
+      "roas": 1.6405684286748732,
+      "creative_message_samples": [
+        "Hot & comfy: women boyshorts now 20% off \u2014 feel the difference."
+      ]
+    },
+    {
+      "campaign_name": "WOMEN Cotton Classics",
+      "ctr": 0.010565467286951083,
+      "roas": 13.295156243529558,
+      "creative_message_samples": [
+        "Wire\u2011free ease, cloud\u2011soft cups \u2014 women panties that fits right.",
+        "Breathable organic cotton that moves with you \u2014 limited offer on women wire\u2011free bras.",
+        "Breathable cotton that moves with you \u2014 limited offer on women boyshorts."
+      ]
+    },
+    {
+      "campaign_name": "WOMEN Cotton Classis",
+      "ctr": 0.012559148966449638,
+      "roas": 0.908574882400862,
+      "creative_message_samples": [
+        "Cooling mesh panels for workouts \u2014 women bras you\u2019ll actually love."
+      ]
+    },
+    {
+      "campaign_name": "WOMEN Ctton Classics",
+      "ctr": 0.01698120139082479,
+      "roas": 16.36575632064889,
+      "creative_message_samples": [
+        "3\u2011pack deal ends tonight \u2014 upgrade your women drawer with boyshorts."
+      ]
+    },
+    {
+      "campaign_name": "WOMEN FIT  LIFT",
+      "ctr": 0.020833098281678383,
+      "roas": 1.06088829453603,
+      "creative_message_samples": [
+        "No ride\u2011up guarantee \u2014 best\u2011selling women wire\u2011free bras back in stock."
+      ]
+    },
+    {
+      "campaign_name": "WOMEN FIT & -IFT",
+      "ctr": 0.02071422947522053,
+      "roas": 1.9186751647443443,
+      "creative_message_samples": [
+        "Stretch that snaps back \u2014 durable women panties.",
+        "Ultra\u2011soft waistband, no marks \u2014 premium women bras."
+      ]
+    },
+    {
+      "campaign_name": "WOMEN FIT & LIFT",
+      "ctr": 0.01806719548005315,
+      "roas": 5.511209452608701,
+      "creative_message_samples": [
+        "All\u2011day comfort, zero pinch \u2014 try our women bras!",
+        "Ultra\u2011soft waistband, no marks \u2014 premium women sports bras.",
+        "Wire\u2011free ease, cloud\u2011soft cups \u2014 women wire\u2011free bras that fits right."
+      ]
+    },
+    {
+      "campaign_name": "WOMEN SEAM ESS EVERYDAY",
+      "ctr": 0.009220828223752477,
+      "roas": 3.324886768280996,
+      "creative_message_samples": [
+        "Stretch that snaps back \u2014 durable women boyshorts."
+      ]
+    },
+    {
+      "campaign_name": "WOMEN SEAMLESS EV RYDAY",
+      "ctr": 0.007875240968542259,
+      "roas": 7.643591428947022,
+      "creative_message_samples": [
+        "Invisible under tees \u2014 seamless women panties."
+      ]
+    },
+    {
+      "campaign_name": "WOMEN SEAMLESS EVE YDAY",
+      "ctr": 0.007510533064663858,
+      "roas": 2.964709642074507,
+      "creative_message_samples": [
+        "Invisible under tees \u2014 seamless women wire\u2011free bras."
+      ]
+    },
+    {
+      "campaign_name": "WOMEN SEAMLESS EVERYDAY",
+      "ctr": 0.008388227281689217,
+      "roas": 13.36817694179481,
+      "creative_message_samples": [
+        "Wire\u2011free ease, cloud\u2011soft cups \u2014 women panties that fits right.",
+        "Push comfort, not wires \u2014 everyday women wire\u2011free bras.",
+        "Seamless confidence for every day \u2014 new women wire\u2011free bras."
+      ]
+    },
+    {
+      "campaign_name": "WOMEN SUMMER I VISIBLE",
+      "ctr": 0.013672391017173052,
+      "roas": 19.084072172966245,
+      "creative_message_samples": [
+        "Seamless confidence for every day \u2014 new women panties."
+      ]
+    },
+    {
+      "campaign_name": "WOMEN SUMMER INVISIBE",
+      "ctr": 0.012431584368300658,
+      "roas": 1.04115548739832,
+      "creative_message_samples": [
+        "Seamless confidence for every day \u2014 new women bras."
+      ]
+    },
+    {
+      "campaign_name": "WOMEN SUMMER INVISIBLE",
+      "ctr": 0.010679049631526617,
+      "roas": 6.5922786106675675,
+      "creative_message_samples": [
+        "Push comfort, not wires \u2014 everyday women panties.",
+        "Summer\u2011ready essentials \u2014 sweat\u2011wicking women bras.",
+        "Wire\u2011free ease, cloud\u2011soft cups \u2014 women bras that fits right."
+      ]
+    },
+    {
+      "campaign_name": "WOMEN SUMMER INVSIBLE",
+      "ctr": 0.01067328575860999,
+      "roas": 0.4359409321241382,
+      "creative_message_samples": [
+        "All\u2011day comfort, zero pinch \u2014 try our women panties!"
+      ]
+    },
+    {
+      "campaign_name": "WOMEN Seamless E eryday",
+      "ctr": 0.010781228385668834,
+      "roas": 14.858124766529698,
+      "creative_message_samples": [
+        "Ultra\u2011soft waistband, no marks \u2014 premium women sports bras."
+      ]
+    },
+    {
+      "campaign_name": "WOMEN Seamless Eeryday",
+      "ctr": 0.009598647764333725,
+      "roas": 16.499431797353274,
+      "creative_message_samples": [
+        "Doctors recommend breathable organic cotton \u2014 meet our women wire\u2011free bras."
+      ]
+    },
+    {
+      "campaign_name": "WOMEN Seamless Everyday",
+      "ctr": 0.008802712060944485,
+      "roas": 10.989096238237124,
+      "creative_message_samples": [
+        "Seamless confidence for every day \u2014 new women panties.",
+        "Seamless confidence for every day \u2014 new women panties.",
+        "Doctors recommend breathable microfiber \u2014 meet our women sports bras."
+      ]
+    },
+    {
+      "campaign_name": "WOMEN Seamless Everydy",
+      "ctr": 0.005261022684114215,
+      "roas": 13.918750405923232,
+      "creative_message_samples": [
+        "Doctors recommend breathable organic cotton \u2014 meet our women wire\u2011free bras."
+      ]
+    },
+    {
+      "campaign_name": "WOMEN Semless Everyday",
+      "ctr": NaN,
+      "roas": 3.260679594121258,
+      "creative_message_samples": [
+        "Wire\u2011free ease, cloud\u2011soft cups \u2014 women sports bras that fits right."
+      ]
+    },
+    {
+      "campaign_name": "WOMEN eamless Everyday",
+      "ctr": 0.008646736593873591,
+      "roas": 2.162099437650629,
+      "creative_message_samples": [
+        "Ultra\u2011soft waistband, no marks \u2014 premium women bras."
+      ]
+    },
+    {
+      "campaign_name": "WOMEN otton Classics",
+      "ctr": 0.010721857581487101,
+      "roas": 6.304778460543337,
+      "creative_message_samples": [
+        "Wire\u2011free ease, cloud\u2011soft cups \u2014 women wire\u2011free bras that fits right."
+      ]
+    },
+    {
+      "campaign_name": "WOMEN | STUDIO SPORTS",
+      "ctr": 0.01115975408914442,
+      "roas": 18.027962152728485,
+      "creative_message_samples": [
+        "Push comfort, not wires \u2014 everyday women wire\u2011free bras.",
+        "Doctors recommend breathable bamboo \u2014 meet our women sports bras.",
+        "No ride\u2011up guarantee \u2014 best\u2011selling women wire\u2011free bras back in stock."
+      ]
+    },
+    {
+      "campaign_name": "WOMEN | SUDIO SPORTS",
+      "ctr": 0.009252967455578527,
+      "roas": 7.935846933033202,
+      "creative_message_samples": [
+        "Confidence starts inside \u2014 elevate with women wire\u2011free bras."
+      ]
+    },
+    {
+      "campaign_name": "WOMEN-FIT & LIFT",
+      "ctr": 0.02523554858167004,
+      "roas": 11.918567759480284,
+      "creative_message_samples": [
+        "Hot & comfy: women bras now 20% off \u2014 feel the difference."
+      ]
+    },
+    {
+      "campaign_name": "WOMENSeamless Everyday",
+      "ctr": 0.009093612737920937,
+      "roas": 11.508352882633115,
+      "creative_message_samples": [
+        "3\u2011pack deal ends tonight \u2014 upgrade your women drawer with panties."
+      ]
+    },
+    {
+      "campaign_name": "WOMEN_Cot-on_Classics",
+      "ctr": NaN,
+      "roas": 3.270009151795,
+      "creative_message_samples": [
+        "3\u2011pack deal ends tonight \u2014 upgrade your women drawer with boyshorts."
+      ]
+    },
+    {
+      "campaign_name": "WOMEN_Cotton_Clas ics",
+      "ctr": 0.014293898003271514,
+      "roas": 15.878452549575073,
+      "creative_message_samples": [
+        "No ride\u2011up guarantee \u2014 best\u2011selling women bras back in stock."
+      ]
+    },
+    {
+      "campaign_name": "WOMEN_Cotton_Classics",
+      "ctr": 0.010468532650202205,
+      "roas": 12.890722262601564,
+      "creative_message_samples": [
+        "Summer\u2011ready essentials \u2014 sweat\u2011wicking women wire\u2011free bras.",
+        "Confidence starts inside \u2014 elevate with women boyshorts.",
+        "Ultra\u2011soft waistband, no marks \u2014 premium women sports bras."
+      ]
+    },
+    {
+      "campaign_name": "WOMEN_Seamless_Ever-day",
+      "ctr": 0.008118470575820465,
+      "roas": 6.36226976553281,
+      "creative_message_samples": [
+        "3\u2011pack deal ends tonight \u2014 upgrade your women drawer with wire\u2011free bras."
+      ]
+    },
+    {
+      "campaign_name": "WOMEN_Seamless_Everyday",
+      "ctr": 0.008157821675251798,
+      "roas": 6.072792086545937,
+      "creative_message_samples": [
+        "Wire\u2011free ease, cloud\u2011soft cups \u2014 women boyshorts that fits right.",
+        "Confidence starts inside \u2014 elevate with women sports bras.",
+        "Cooling mesh panels for workouts \u2014 women wire\u2011free bras you\u2019ll actually love."
+      ]
+    },
+    {
+      "campaign_name": "WOMEN_otton_Classics",
+      "ctr": 0.012004018601568084,
+      "roas": 14.376894547790789,
+      "creative_message_samples": [
+        "3\u2011pack deal ends tonight \u2014 upgrade your women drawer with boyshorts."
+      ]
+    },
+    {
+      "campaign_name": "WOMN Cotton Classics",
+      "ctr": 0.011500246365510742,
+      "roas": 6.541273518277869,
+      "creative_message_samples": [
+        "Breathable microfiber that moves with you \u2014 limited offer on women sports bras."
+      ]
+    },
+    {
+      "campaign_name": "WOMN_Cotton_Classics",
+      "ctr": 0.0060048712567103,
+      "roas": 9.730484910139031,
+      "creative_message_samples": [
+        "3\u2011pack deal ends tonight \u2014 upgrade your women drawer with bras."
+      ]
+    },
+    {
+      "campaign_name": "Wmen | Studio Sports",
+      "ctr": 0.0062149893496438015,
+      "roas": 1.9459186875252141,
+      "creative_message_samples": [
+        "3\u2011pack deal ends tonight \u2014 upgrade your women drawer with boyshorts."
+      ]
+    },
+    {
+      "campaign_name": "Wmen_Fit_&_Lift",
+      "ctr": 0.012759251442240044,
+      "roas": 2.5993589743589745,
+      "creative_message_samples": [
+        "Stretch that snaps back \u2014 durable women boyshorts."
+      ]
+    },
+    {
+      "campaign_name": "Wo en  Fit  &  Lift",
+      "ctr": 0.022329654056101805,
+      "roas": 2.793066185069501,
+      "creative_message_samples": [
+        "Hot & comfy: women bras now 20% off \u2014 feel the difference."
+      ]
+    },
+    {
+      "campaign_name": "Wo en Fit & Lift",
+      "ctr": 0.018854262695191776,
+      "roas": 2.927200627376707,
+      "creative_message_samples": [
+        "Stretch that snaps back \u2014 durable women panties."
+      ]
+    },
+    {
+      "campaign_name": "Wo-en  |  Studio  Sports",
+      "ctr": 0.012404237786005213,
+      "roas": 21.557836667714113,
+      "creative_message_samples": [
+        "Invisible under tees \u2014 seamless women panties."
+      ]
+    },
+    {
+      "campaign_name": "Wo-en Fit & Lift",
+      "ctr": 0.017621376892697046,
+      "roas": 11.404684268385845,
+      "creative_message_samples": [
+        "Confidence starts inside \u2014 elevate with women wire\u2011free bras."
+      ]
+    },
+    {
+      "campaign_name": "Woen Fit and Lift",
+      "ctr": 0.01824365664927119,
+      "roas": 3.1540098983555955,
+      "creative_message_samples": [
+        "Stretch that snaps back \u2014 durable women bras."
+      ]
+    },
+    {
+      "campaign_name": "Wom n  Fit  &  Lift",
+      "ctr": 0.022385849413828915,
+      "roas": 2.7498510803444107,
+      "creative_message_samples": [
+        "Push comfort, not wires \u2014 everyday women bras."
+      ]
+    },
+    {
+      "campaign_name": "Wom n Fit & Lift",
+      "ctr": 0.02190152088080998,
+      "roas": 11.891174777420995,
+      "creative_message_samples": [
+        "Cooling mesh panels for workouts \u2014 women boyshorts you\u2019ll actually love.",
+        "Breathable microfiber that moves with you \u2014 limited offer on women panties."
+      ]
+    },
+    {
+      "campaign_name": "Wom n-Studio Sports",
+      "ctr": 0.012008741880109197,
+      "roas": NaN,
+      "creative_message_samples": [
+        "No ride\u2011up guarantee \u2014 best\u2011selling women panties back in stock."
+      ]
+    },
+    {
+      "campaign_name": "Wom-n Cotton Classics",
+      "ctr": 0.01227543092983734,
+      "roas": 2.3520208439247585,
+      "creative_message_samples": [
+        "Push comfort, not wires \u2014 everyday women bras."
+      ]
+    },
+    {
+      "campaign_name": "Wom-n Fit & Lift",
+      "ctr": NaN,
+      "roas": 0.5248963730569949,
+      "creative_message_samples": [
+        "Summer\u2011ready essentials \u2014 sweat\u2011wicking women bras."
+      ]
+    },
+    {
+      "campaign_name": "Wome  Fit & Lift",
+      "ctr": 0.016714630798327974,
+      "roas": 8.579577464788732,
+      "creative_message_samples": [
+        "3\u2011pack deal ends tonight \u2014 upgrade your women drawer with boyshorts."
+      ]
+    },
+    {
+      "campaign_name": "Wome  Fit and Lift",
+      "ctr": 0.018682711387057543,
+      "roas": 2.906108386616177,
+      "creative_message_samples": [
+        "Seamless confidence for every day \u2014 new women panties."
+      ]
+    },
+    {
+      "campaign_name": "Women  -it  &  Lift",
+      "ctr": 0.016569494886357512,
+      "roas": 2.1355384049981625,
+      "creative_message_samples": [
+        "No ride\u2011up guarantee \u2014 best\u2011selling women boyshorts back in stock."
+      ]
+    },
+    {
+      "campaign_name": "Women  Fit     Lift",
+      "ctr": 0.015003913263661893,
+      "roas": 11.363978648365265,
+      "creative_message_samples": [
+        "3\u2011pack deal ends tonight \u2014 upgrade your women drawer with wire\u2011free bras."
+      ]
+    },
+    {
+      "campaign_name": "Women  Fit  &  Lft",
+      "ctr": 0.015440474249376907,
+      "roas": 2.1246628627190547,
+      "creative_message_samples": [
+        "Ultra\u2011soft waistband, no marks \u2014 premium women wire\u2011free bras."
+      ]
+    },
+    {
+      "campaign_name": "Women  Fit  &  Lift",
+      "ctr": 0.018094185153499732,
+      "roas": 5.498718544134394,
+      "creative_message_samples": [
+        "No ride\u2011up guarantee \u2014 best\u2011selling women panties back in stock.",
+        "Hot & comfy: women bras now 20% off \u2014 feel the difference.",
+        "Doctors recommend breathable microfiber \u2014 meet our women boyshorts."
+      ]
+    },
+    {
+      "campaign_name": "Women  it & Lift",
+      "ctr": 0.025324073876465642,
+      "roas": 20.686037126715092,
+      "creative_message_samples": [
+        "Cooling mesh panels for workouts \u2014 women wire\u2011free bras you\u2019ll actually love."
+      ]
+    },
+    {
+      "campaign_name": "Women  |  Studio  Sports",
+      "ctr": 0.011257190976630303,
+      "roas": 16.240981933725045,
+      "creative_message_samples": [
+        "Seamless confidence for every day \u2014 new women bras.",
+        "Stretch that snaps back \u2014 durable women bras.",
+        "Invisible under tees \u2014 seamless women panties."
+      ]
+    },
+    {
+      "campaign_name": "Women  |  Studio Sports",
+      "ctr": 0.01024596372891548,
+      "roas": 30.917929292929294,
+      "creative_message_samples": [
+        "Ultra\u2011soft waistband, no marks \u2014 premium women wire\u2011free bras."
+      ]
+    },
+    {
+      "campaign_name": "Women -it & Lift",
+      "ctr": 0.020364578588852114,
+      "roas": 3.4250285844957697,
+      "creative_message_samples": [
+        "3\u2011pack deal ends tonight \u2014 upgrade your women drawer with panties."
+      ]
+    },
+    {
+      "campaign_name": "Women C-tton Classics",
+      "ctr": 0.007958926594648242,
+      "roas": 0.8345030131970401,
+      "creative_message_samples": [
+        "Breathable microfiber that moves with you \u2014 limited offer on women sports bras."
+      ]
+    },
+    {
+      "campaign_name": "Women Co-ton Classics",
+      "ctr": 0.00902227360942343,
+      "roas": 1.895385400052193,
+      "creative_message_samples": [
+        "3\u2011pack deal ends tonight \u2014 upgrade your women drawer with wire\u2011free bras.",
+        "Push comfort, not wires \u2014 everyday women bras."
+      ]
+    },
+    {
+      "campaign_name": "Women Cottn Classics",
+      "ctr": 0.008360611208559498,
+      "roas": 5.4016696452615856,
+      "creative_message_samples": [
+        "Doctors recommend breathable cotton \u2014 meet our women boyshorts."
+      ]
+    },
+    {
+      "campaign_name": "Women Cotton Clas ics",
+      "ctr": 0.013130445719539752,
+      "roas": NaN,
+      "creative_message_samples": [
+        "Wire\u2011free ease, cloud\u2011soft cups \u2014 women bras that fits right."
+      ]
+    },
+    {
+      "campaign_name": "Women Cotton Classics",
+      "ctr": 0.010206272349548674,
+      "roas": 15.13483377978298,
+      "creative_message_samples": [
+        "No ride\u2011up guarantee \u2014 best\u2011selling women bras back in stock.",
+        "Wire\u2011free ease, cloud\u2011soft cups \u2014 women panties that fits right.",
+        "Invisible under tees \u2014 seamless women bras."
+      ]
+    },
+    {
+      "campaign_name": "Women Cotton Classis",
+      "ctr": 0.013078292113139628,
+      "roas": 4.899033577326839,
+      "creative_message_samples": [
+        "Seamless confidence for every day \u2014 new women sports bras."
+      ]
+    },
+    {
+      "campaign_name": "Women Cotton lassics",
+      "ctr": 0.008294130906961213,
+      "roas": 10.99931855677498,
+      "creative_message_samples": [
+        "Cooling mesh panels for workouts \u2014 women boyshorts you\u2019ll actually love."
+      ]
+    },
+    {
+      "campaign_name": "Women F t & Lift",
+      "ctr": 0.01795862696067288,
+      "roas": 1.7589450479296964,
+      "creative_message_samples": [
+        "All\u2011day comfort, zero pinch \u2014 try our women boyshorts!"
+      ]
+    },
+    {
+      "campaign_name": "Women Fi  & Lift",
+      "ctr": 0.0172399803858623,
+      "roas": NaN,
+      "creative_message_samples": [
+        "Doctors recommend breathable organic cotton \u2014 meet our women boyshorts."
+      ]
+    },
+    {
+      "campaign_name": "Women Fit  Lift",
+      "ctr": 0.008321154379798353,
+      "roas": 2.518739054290718,
+      "creative_message_samples": [
+        "Confidence starts inside \u2014 elevate with women wire\u2011free bras."
+      ]
+    },
+    {
+      "campaign_name": "Women Fit & Lift",
+      "ctr": 0.01757353805399252,
+      "roas": 5.49257146589169,
+      "creative_message_samples": [
+        "Confidence starts inside \u2014 elevate with women bras.",
+        "Seamless confidence for every day \u2014 new women panties.",
+        "Push comfort, not wires \u2014 everyday women sports bras."
+      ]
+    },
+    {
+      "campaign_name": "Women Fit & ift",
+      "ctr": 0.012274888344618932,
+      "roas": 0.2809194814056636,
+      "creative_message_samples": [
+        "Push comfort, not wires \u2014 everyday women sports bras."
+      ]
+    },
+    {
+      "campaign_name": "Women Fit and Lift",
+      "ctr": 0.017712568158724632,
+      "roas": 6.288185309434016,
+      "creative_message_samples": [
+        "Confidence starts inside \u2014 elevate with women panties.",
+        "Breathable cotton that moves with you \u2014 limited offer on women boyshorts.",
+        "Push comfort, not wires \u2014 everyday women panties."
+      ]
+    },
+    {
+      "campaign_name": "Women Fit& Lift",
+      "ctr": 0.018718458309142066,
+      "roas": 4.251646641574986,
+      "creative_message_samples": [
+        "Stretch that snaps back \u2014 durable women bras."
+      ]
+    },
+    {
+      "campaign_name": "Women Se mless Everyday",
+      "ctr": 0.013878134994108737,
+      "roas": 3.5976290722326736,
+      "creative_message_samples": [
+        "Confidence starts inside \u2014 elevate with women bras."
+      ]
+    },
+    {
+      "campaign_name": "Women Seamless Eve yday",
+      "ctr": NaN,
+      "roas": 11.486434380257993,
+      "creative_message_samples": [
+        "Push comfort, not wires \u2014 everyday women sports bras."
+      ]
+    },
+    {
+      "campaign_name": "Women Seamless Everyday",
+      "ctr": 0.008344907188501291,
+      "roas": 6.895295999466827,
+      "creative_message_samples": [
+        "Cooling mesh panels for workouts \u2014 women boyshorts you\u2019ll actually love.",
+        "Push comfort, not wires \u2014 everyday women panties.",
+        "Invisible under tees \u2014 seamless women sports bras."
+      ]
+    },
+    {
+      "campaign_name": "Women Semless Everyday",
+      "ctr": 0.011289745864840883,
+      "roas": 3.3015345211080906,
+      "creative_message_samples": [
+        "Wire\u2011free ease, cloud\u2011soft cups \u2014 women wire\u2011free bras that fits right."
+      ]
+    },
+    {
+      "campaign_name": "Women Sum er Invisible",
+      "ctr": 0.012484333144921481,
+      "roas": 11.619894956080774,
+      "creative_message_samples": [
+        "Breathable bamboo that moves with you \u2014 limited offer on women wire\u2011free bras."
+      ]
+    },
+    {
+      "campaign_name": "Women Summ-r Invisible",
+      "ctr": 0.011334103378573492,
+      "roas": 0.5529200717560294,
+      "creative_message_samples": [
+        "Hot & comfy: women wire\u2011free bras now 20% off \u2014 feel the difference."
+      ]
+    },
+    {
+      "campaign_name": "Women Summer In-isible",
+      "ctr": 0.009697880153563678,
+      "roas": 2.1486358330901663,
+      "creative_message_samples": [
+        "Doctors recommend breathable cotton \u2014 meet our women wire\u2011free bras."
+      ]
+    },
+    {
+      "campaign_name": "Women Summer Invisi-le",
+      "ctr": 0.013212160217786113,
+      "roas": 11.328519505694208,
+      "creative_message_samples": [
+        "Ultra\u2011soft waistband, no marks \u2014 premium women wire\u2011free bras."
+      ]
+    },
+    {
+      "campaign_name": "Women Summer Invisible",
+      "ctr": 0.010311728280642078,
+      "roas": 6.548688366785223,
+      "creative_message_samples": [
+        "Push comfort, not wires \u2014 everyday women panties.",
+        "Stretch that snaps back \u2014 durable women boyshorts.",
+        "Seamless confidence for every day \u2014 new women boyshorts."
+      ]
+    },
+    {
+      "campaign_name": "Women it & Lift",
+      "ctr": 0.014322417363294732,
+      "roas": 5.568309993029593,
+      "creative_message_samples": [
+        "Hot & comfy: women boyshorts now 20% off \u2014 feel the difference."
+      ]
+    },
+    {
+      "campaign_name": "Women | Stu io Sports",
+      "ctr": 0.009292334080850898,
+      "roas": 8.476816258702856,
+      "creative_message_samples": [
+        "Cooling mesh panels for workouts \u2014 women bras you\u2019ll actually love."
+      ]
+    },
+    {
+      "campaign_name": "Women | Stu-io Sports",
+      "ctr": 0.015373570161329293,
+      "roas": 24.779052785311915,
+      "creative_message_samples": [
+        "Wire\u2011free ease, cloud\u2011soft cups \u2014 women boyshorts that fits right."
+      ]
+    },
+    {
+      "campaign_name": "Women | Studi Sports",
+      "ctr": 0.012180642425527403,
+      "roas": 5.567499271066187,
+      "creative_message_samples": [
+        "3\u2011pack deal ends tonight \u2014 upgrade your women drawer with sports bras."
+      ]
+    },
+    {
+      "campaign_name": "Women | Studio  ports",
+      "ctr": 0.013009800145504343,
+      "roas": 2.1038972144429957,
+      "creative_message_samples": [
+        "Wire\u2011free ease, cloud\u2011soft cups \u2014 women boyshorts that fits right."
+      ]
+    },
+    {
+      "campaign_name": "Women | Studio Sp rts",
+      "ctr": 0.009798210942375702,
+      "roas": 1.0172045440539041,
+      "creative_message_samples": [
+        "Confidence starts inside \u2014 elevate with women boyshorts."
+      ]
+    },
+    {
+      "campaign_name": "Women | Studio Spo-ts",
+      "ctr": 0.009461624087095812,
+      "roas": 3.5177268102800023,
+      "creative_message_samples": [
+        "Cooling mesh panels for workouts \u2014 women panties you\u2019ll actually love."
+      ]
+    },
+    {
+      "campaign_name": "Women | Studio Spors",
+      "ctr": 0.012920419259276885,
+      "roas": 16.292642857142855,
+      "creative_message_samples": [
+        "Invisible under tees \u2014 seamless women sports bras."
+      ]
+    },
+    {
+      "campaign_name": "Women | Studio Sports",
+      "ctr": 0.011164737880795595,
+      "roas": 17.774711002913868,
+      "creative_message_samples": [
+        "3\u2011pack deal ends tonight \u2014 upgrade your women drawer with bras.",
+        "Ultra\u2011soft waistband, no marks \u2014 premium women wire\u2011free bras.",
+        "No ride\u2011up guarantee \u2014 best\u2011selling women wire\u2011free bras back in stock."
+      ]
+    },
+    {
+      "campaign_name": "Women | tudio Sports",
+      "ctr": 0.011332457204285341,
+      "roas": 17.179255064603606,
+      "creative_message_samples": [
+        "Doctors recommend breathable modal \u2014 meet our women wire\u2011free bras."
+      ]
+    },
+    {
+      "campaign_name": "Women-Stud o Sports",
+      "ctr": 0.013974369116367376,
+      "roas": 21.64435046756805,
+      "creative_message_samples": [
+        "All\u2011day comfort, zero pinch \u2014 try our women panties!"
+      ]
+    },
+    {
+      "campaign_name": "Women-Studio -ports",
+      "ctr": 0.00900762183385942,
+      "roas": 6.631991755116245,
+      "creative_message_samples": [
+        "All\u2011day comfort, zero pinch \u2014 try our women sports bras!"
+      ]
+    },
+    {
+      "campaign_name": "Women-Studio S orts",
+      "ctr": 0.006554518146852243,
+      "roas": 2.612626033637757,
+      "creative_message_samples": [
+        "Invisible under tees \u2014 seamless women panties."
+      ]
+    },
+    {
+      "campaign_name": "Women-Studio Spo-ts",
+      "ctr": NaN,
+      "roas": 19.17096607288048,
+      "creative_message_samples": [
+        "Invisible under tees \u2014 seamless women sports bras."
+      ]
+    },
+    {
+      "campaign_name": "Women-Studio Spors",
+      "ctr": 0.01575507206921442,
+      "roas": 21.902811499349028,
+      "creative_message_samples": [
+        "Doctors recommend breathable bamboo \u2014 meet our women sports bras."
+      ]
+    },
+    {
+      "campaign_name": "Women-Studio Sports",
+      "ctr": 0.011253064259872832,
+      "roas": 11.923889767380018,
+      "creative_message_samples": [
+        "Seamless confidence for every day \u2014 new women sports bras.",
+        "Breathable bamboo that moves with you \u2014 limited offer on women panties.",
+        "Stretch that snaps back \u2014 durable women panties."
+      ]
+    },
+    {
+      "campaign_name": "Women-Studio Spots",
+      "ctr": 0.018455373827274652,
+      "roas": 28.340558978873243,
+      "creative_message_samples": [
+        "Hot & comfy: women wire\u2011free bras now 20% off \u2014 feel the difference."
+      ]
+    },
+    {
+      "campaign_name": "Women-Studio-Sports",
+      "ctr": 0.00887588325439807,
+      "roas": 41.070960451977406,
+      "creative_message_samples": [
+        "No ride\u2011up guarantee \u2014 best\u2011selling women wire\u2011free bras back in stock."
+      ]
+    },
+    {
+      "campaign_name": "WomenCotton Classics",
+      "ctr": 0.009492576471289727,
+      "roas": 8.248634625887494,
+      "creative_message_samples": [
+        "Ultra\u2011soft waistband, no marks \u2014 premium women sports bras."
+      ]
+    },
+    {
+      "campaign_name": "WomenSeamless Everyday",
+      "ctr": 0.01096249971469655,
+      "roas": 10.399017208714872,
+      "creative_message_samples": [
+        "Breathable modal that moves with you \u2014 limited offer on women bras."
+      ]
+    },
+    {
+      "campaign_name": "Women_-it_&_Lift",
+      "ctr": 0.01374237025014995,
+      "roas": 0.663361053052875,
+      "creative_message_samples": [
+        "Cooling mesh panels for workouts \u2014 women sports bras you\u2019ll actually love."
+      ]
+    },
+    {
+      "campaign_name": "Women_Fit_&_Lift",
+      "ctr": 0.017630200782732388,
+      "roas": 6.340907260233293,
+      "creative_message_samples": [
+        "No ride\u2011up guarantee \u2014 best\u2011selling women boyshorts back in stock.",
+        "Stretch that snaps back \u2014 durable women bras.",
+        "Wire\u2011free ease, cloud\u2011soft cups \u2014 women bras that fits right."
+      ]
+    },
+    {
+      "campaign_name": "Women_|-Studio_Sports",
+      "ctr": 0.009673098225095959,
+      "roas": 6.3013640464943474,
+      "creative_message_samples": [
+        "3\u2011pack deal ends tonight \u2014 upgrade your women drawer with boyshorts."
+      ]
+    },
+    {
+      "campaign_name": "Women_|_Studio_ ports",
+      "ctr": 0.011280558543736422,
+      "roas": 22.784397320192678,
+      "creative_message_samples": [
+        "Breathable organic cotton that moves with you \u2014 limited offer on women boyshorts."
+      ]
+    },
+    {
+      "campaign_name": "Women_|_Studio_Spo ts",
+      "ctr": 0.013712465145553146,
+      "roas": 16.001574933687003,
+      "creative_message_samples": [
+        "Push comfort, not wires \u2014 everyday women panties."
+      ]
+    },
+    {
+      "campaign_name": "Women_|_Studio_Sports",
+      "ctr": 0.010944496625574745,
+      "roas": 10.674112020546636,
+      "creative_message_samples": [
+        "Ultra\u2011soft waistband, no marks \u2014 premium women wire\u2011free bras.",
+        "Seamless confidence for every day \u2014 new women bras.",
+        "Cooling mesh panels for workouts \u2014 women bras you\u2019ll actually love."
+      ]
+    },
+    {
+      "campaign_name": "en comfortmax launch",
+      "ctr": 0.016092825282061747,
+      "roas": 0.7809782409276044,
+      "creative_message_samples": [
+        "All\u2011day comfort, zero pinch \u2014 try our men athletic briefs!"
+      ]
+    },
+    {
+      "campaign_name": "en_ComfortMax_Launch",
+      "ctr": 0.02166125170998632,
+      "roas": 9.52006640803673,
+      "creative_message_samples": [
+        "Push comfort, not wires \u2014 everyday men athletic briefs."
+      ]
+    },
+    {
+      "campaign_name": "m n | athleisure cooling",
+      "ctr": 0.018125625966901197,
+      "roas": 13.87630425864006,
+      "creative_message_samples": [
+        "Cooling mesh panels for workouts \u2014 men inner vests you\u2019ll actually love.",
+        "Seamless confidence for every day \u2014 new men boxers.",
+        "Ultra\u2011soft waistband, no marks \u2014 premium men boxers."
+      ]
+    },
+    {
+      "campaign_name": "me bold colors drop",
+      "ctr": 0.009151432778902863,
+      "roas": 1.8758749527052592,
+      "creative_message_samples": [
+        "Breathable microfiber that moves with you \u2014 limited offer on men boxers."
+      ]
+    },
+    {
+      "campaign_name": "men bld colors drop",
+      "ctr": 0.008683963613859738,
+      "roas": 1.7765967483254193,
+      "creative_message_samples": [
+        "Hot & comfy: men briefs now 20% off \u2014 feel the difference."
+      ]
+    },
+    {
+      "campaign_name": "men bo-d colors drop",
+      "ctr": 0.011086746461724398,
+      "roas": 2.779973418261153,
+      "creative_message_samples": [
+        "Doctors recommend breathable modal \u2014 meet our men briefs."
+      ]
+    },
+    {
+      "campaign_name": "men bold clors drop",
+      "ctr": 0.011904242501535435,
+      "roas": 2.0473062194638847,
+      "creative_message_samples": [
+        "Push comfort, not wires \u2014 everyday men trunks."
+      ]
+    },
+    {
+      "campaign_name": "men bold colors drop",
+      "ctr": 0.009631721256647047,
+      "roas": 2.759674461915174,
+      "creative_message_samples": [
+        "Stretch that snaps back \u2014 durable men trunks.",
+        "Invisible under tees \u2014 seamless men briefs.",
+        "Cooling mesh panels for workouts \u2014 men athletic briefs you\u2019ll actually love."
+      ]
+    },
+    {
+      "campaign_name": "men co fortmax launch",
+      "ctr": 0.014928500166278683,
+      "roas": 2.741519165112957,
+      "creative_message_samples": [
+        "All\u2011day comfort, zero pinch \u2014 try our men inner vests!"
+      ]
+    },
+    {
+      "campaign_name": "men comfor-max launch",
+      "ctr": 0.014899052074356765,
+      "roas": NaN,
+      "creative_message_samples": [
+        "Seamless confidence for every day \u2014 new men briefs."
+      ]
+    },
+    {
+      "campaign_name": "men comfortmax launch",
+      "ctr": 0.01623903167580529,
+      "roas": 18.221897516032126,
+      "creative_message_samples": [
+        "All\u2011day comfort, zero pinch \u2014 try our men inner vests!",
+        "Breathable cotton that moves with you \u2014 limited offer on men inner vests.",
+        "Push comfort, not wires \u2014 everyday men trunks."
+      ]
+    },
+    {
+      "campaign_name": "men comfotmax launch",
+      "ctr": 0.01843440720356719,
+      "roas": 7.56417842111751,
+      "creative_message_samples": [
+        "Doctors recommend breathable bamboo \u2014 meet our men boxers."
+      ]
+    },
+    {
+      "campaign_name": "men omfortmax launch",
+      "ctr": 0.021997599393279495,
+      "roas": 19.09459781371589,
+      "creative_message_samples": [
+        "3\u2011pack deal ends tonight \u2014 upgrade your men drawer with inner vests."
+      ]
+    },
+    {
+      "campaign_name": "men premium modal",
+      "ctr": 0.011203446351299938,
+      "roas": 8.023826695376492,
+      "creative_message_samples": [
+        "All\u2011day comfort, zero pinch \u2014 try our men athletic briefs!",
+        "Seamless confidence for every day \u2014 new men athletic briefs.",
+        "Breathable organic cotton that moves with you \u2014 limited offer on men athletic briefs."
+      ]
+    },
+    {
+      "campaign_name": "men s gnature soft",
+      "ctr": 0.015030030474274387,
+      "roas": 1.0716519020323085,
+      "creative_message_samples": [
+        "Doctors recommend breathable modal \u2014 meet our men trunks."
+      ]
+    },
+    {
+      "campaign_name": "men sig ature soft",
+      "ctr": 0.012957519482065511,
+      "roas": 0.24404488483496292,
+      "creative_message_samples": [
+        "Seamless confidence for every day \u2014 new men inner vests."
+      ]
+    },
+    {
+      "campaign_name": "men signa ure soft",
+      "ctr": 0.014519108876185656,
+      "roas": 2.441083910793718,
+      "creative_message_samples": [
+        "Cooling mesh panels for workouts \u2014 men briefs you\u2019ll actually love."
+      ]
+    },
+    {
+      "campaign_name": "men signature soft",
+      "ctr": 0.014314734971567709,
+      "roas": 3.362355229135917,
+      "creative_message_samples": [
+        "Hot & comfy: men briefs now 20% off \u2014 feel the difference.",
+        "Push comfort, not wires \u2014 everyday men briefs.",
+        "No ride\u2011up guarantee \u2014 best\u2011selling men briefs back in stock."
+      ]
+    },
+    {
+      "campaign_name": "men | athleisure cooling",
+      "ctr": 0.0205738399067951,
+      "roas": 18.12195302506713,
+      "creative_message_samples": [
+        "Breathable bamboo that moves with you \u2014 limited offer on men inner vests.",
+        "Cooling mesh panels for workouts \u2014 men briefs you\u2019ll actually love.",
+        "Summer\u2011ready essentials \u2014 sweat\u2011wicking men boxers."
+      ]
+    },
+    {
+      "campaign_name": "men | athlisure cooling",
+      "ctr": 0.018271165488188183,
+      "roas": NaN,
+      "creative_message_samples": [
+        "Stretch that snaps back \u2014 durable men inner vests."
+      ]
+    },
+    {
+      "campaign_name": "mn | athleisure cooling",
+      "ctr": 0.029317773788150807,
+      "roas": 11.604941818704209,
+      "creative_message_samples": [
+        "Summer\u2011ready essentials \u2014 sweat\u2011wicking men boxers."
+      ]
+    },
+    {
+      "campaign_name": "omen Summer Invisible",
+      "ctr": 0.011857869034456611,
+      "roas": 5.599825263513894,
+      "creative_message_samples": [
+        "All\u2011day comfort, zero pinch \u2014 try our women sports bras!"
+      ]
+    },
+    {
+      "campaign_name": "omen | Studio Sports",
+      "ctr": 0.01377786690269403,
+      "roas": NaN,
+      "creative_message_samples": [
+        "Ultra\u2011soft waistband, no marks \u2014 premium women bras."
+      ]
+    },
+    {
+      "campaign_name": "w men cotton classics",
+      "ctr": 0.008770128162997043,
+      "roas": 0.8703569168756299,
+      "creative_message_samples": [
+        "All\u2011day comfort, zero pinch \u2014 try our women panties!"
+      ]
+    },
+    {
+      "campaign_name": "w men fit & lift",
+      "ctr": 0.021186410925559677,
+      "roas": 9.937188345918223,
+      "creative_message_samples": [
+        "Breathable modal that moves with you \u2014 limited offer on women bras."
+      ]
+    },
+    {
+      "campaign_name": "w-men cotton classics",
+      "ctr": 0.009384231821463019,
+      "roas": 9.354591605475477,
+      "creative_message_samples": [
+        "3\u2011pack deal ends tonight \u2014 upgrade your women drawer with panties."
+      ]
+    },
+    {
+      "campaign_name": "wo en fit & lift",
+      "ctr": 0.01658386296605487,
+      "roas": 3.68006612987172,
+      "creative_message_samples": [
+        "Push comfort, not wires \u2014 everyday women sports bras."
+      ]
+    },
+    {
+      "campaign_name": "wo-en seamless everyday",
+      "ctr": 0.00965212031348087,
+      "roas": 4.7369595536959554,
+      "creative_message_samples": [
+        "Push comfort, not wires \u2014 everyday women bras."
+      ]
+    },
+    {
+      "campaign_name": "woen  Summer  Invisible",
+      "ctr": 0.015940426790816444,
+      "roas": 4.499652652346681,
+      "creative_message_samples": [
+        "All\u2011day comfort, zero pinch \u2014 try our women panties!"
+      ]
+    },
+    {
+      "campaign_name": "woen Summer Invisible",
+      "ctr": 0.011833008059004968,
+      "roas": 17.91680592893991,
+      "creative_message_samples": [
+        "Cooling mesh panels for workouts \u2014 women wire\u2011free bras you\u2019ll actually love."
+      ]
+    },
+    {
+      "campaign_name": "wom-n_Summer_Invisible",
+      "ctr": 0.012233579150152767,
+      "roas": 6.178009695663883,
+      "creative_message_samples": [
+        "Invisible under tees \u2014 seamless women panties."
+      ]
+    },
+    {
+      "campaign_name": "wome  Summer Invisible",
+      "ctr": 0.01169368874751311,
+      "roas": 6.067071359380045,
+      "creative_message_samples": [
+        "Invisible under tees \u2014 seamless women boyshorts."
+      ]
+    },
+    {
+      "campaign_name": "women  -ummer  Invisible",
+      "ctr": 0.015303104746466047,
+      "roas": 5.245172044613696,
+      "creative_message_samples": [
+        "All\u2011day comfort, zero pinch \u2014 try our women bras!"
+      ]
+    },
+    {
+      "campaign_name": "women  Summ r  Invisible",
+      "ctr": 0.008621864002724485,
+      "roas": 1.5380405570486195,
+      "creative_message_samples": [
+        "Hot & comfy: women bras now 20% off \u2014 feel the difference."
+      ]
+    },
+    {
+      "campaign_name": "women  Summer  -nvisible",
+      "ctr": 0.01783834415073069,
+      "roas": 15.741723368974787,
+      "creative_message_samples": [
+        "Confidence starts inside \u2014 elevate with women wire\u2011free bras."
+      ]
+    },
+    {
+      "campaign_name": "women  Summer  Invi ible",
+      "ctr": 0.009394601651860473,
+      "roas": 13.562446200798183,
+      "creative_message_samples": [
+        "Summer\u2011ready essentials \u2014 sweat\u2011wicking women sports bras."
+      ]
+    },
+    {
+      "campaign_name": "women  Summer  Invisib e",
+      "ctr": 0.009975896300069198,
+      "roas": 8.776865123116501,
+      "creative_message_samples": [
+        "Breathable bamboo that moves with you \u2014 limited offer on women bras."
+      ]
+    },
+    {
+      "campaign_name": "women  Summer  Invisible",
+      "ctr": 0.011341349990453846,
+      "roas": 8.733357259106604,
+      "creative_message_samples": [
+        "Wire\u2011free ease, cloud\u2011soft cups \u2014 women wire\u2011free bras that fits right.",
+        "Cooling mesh panels for workouts \u2014 women boyshorts you\u2019ll actually love.",
+        "All\u2011day comfort, zero pinch \u2014 try our women panties!"
+      ]
+    },
+    {
+      "campaign_name": "women Su mer Invisible",
+      "ctr": 0.00788527755287251,
+      "roas": 24.39434118621996,
+      "creative_message_samples": [
+        "Cooling mesh panels for workouts \u2014 women wire\u2011free bras you\u2019ll actually love."
+      ]
+    },
+    {
+      "campaign_name": "women Summ-r Invisible",
+      "ctr": 0.010931392733510317,
+      "roas": 5.24887753522217,
+      "creative_message_samples": [
+        "Seamless confidence for every day \u2014 new women wire\u2011free bras."
+      ]
+    },
+    {
+      "campaign_name": "women Summer  nvisible",
+      "ctr": 0.013298431467057732,
+      "roas": 2.991259598104885,
+      "creative_message_samples": [
+        "Cooling mesh panels for workouts \u2014 women sports bras you\u2019ll actually love."
+      ]
+    },
+    {
+      "campaign_name": "women Summer In isible",
+      "ctr": 0.012924382716049383,
+      "roas": 0.3324985791418017,
+      "creative_message_samples": [
+        "Hot & comfy: women sports bras now 20% off \u2014 feel the difference."
+      ]
+    },
+    {
+      "campaign_name": "women Summer In-isible",
+      "ctr": 0.009348931841302137,
+      "roas": 24.31460490907608,
+      "creative_message_samples": [
+        "Summer\u2011ready essentials \u2014 sweat\u2011wicking women wire\u2011free bras."
+      ]
+    },
+    {
+      "campaign_name": "women Summer Inv-sible",
+      "ctr": 0.011594780924163866,
+      "roas": NaN,
+      "creative_message_samples": [
+        "Breathable modal that moves with you \u2014 limited offer on women panties."
+      ]
+    },
+    {
+      "campaign_name": "women Summer Invi-ible",
+      "ctr": 0.012030041374347905,
+      "roas": 0.6638065211318195,
+      "creative_message_samples": [
+        "Seamless confidence for every day \u2014 new women bras."
+      ]
+    },
+    {
+      "campaign_name": "women Summer Invisble",
+      "ctr": 0.008935170270423924,
+      "roas": 1.447872718232829,
+      "creative_message_samples": [
+        "Ultra\u2011soft waistband, no marks \u2014 premium women bras."
+      ]
+    },
+    {
+      "campaign_name": "women Summer Invisi-le",
+      "ctr": 0.00893319631727572,
+      "roas": 12.857939555852397,
+      "creative_message_samples": [
+        "Invisible under tees \u2014 seamless women sports bras."
+      ]
+    },
+    {
+      "campaign_name": "women Summer Invisible",
+      "ctr": 0.010979335697834483,
+      "roas": 9.057738841741056,
+      "creative_message_samples": [
+        "Seamless confidence for every day \u2014 new women sports bras.",
+        "All\u2011day comfort, zero pinch \u2014 try our women panties!",
+        "Hot & comfy: women bras now 20% off \u2014 feel the difference."
+      ]
+    },
+    {
+      "campaign_name": "women c-tton classics",
+      "ctr": 0.008322896403478384,
+      "roas": 3.0406732117812063,
+      "creative_message_samples": [
+        "Hot & comfy: women panties now 20% off \u2014 feel the difference."
+      ]
+    },
+    {
+      "campaign_name": "women co ton classics",
+      "ctr": 0.011235995849142307,
+      "roas": 6.2657019893114985,
+      "creative_message_samples": [
+        "3\u2011pack deal ends tonight \u2014 upgrade your women drawer with bras.",
+        "Stretch that snaps back \u2014 durable women sports bras."
+      ]
+    },
+    {
+      "campaign_name": "women cott n classics",
+      "ctr": 0.009305850354990253,
+      "roas": 16.1317994553453,
+      "creative_message_samples": [
+        "Doctors recommend breathable organic cotton \u2014 meet our women sports bras."
+      ]
+    },
+    {
+      "campaign_name": "women cotton clasics",
+      "ctr": 0.010357659907305746,
+      "roas": 1.2292114939398067,
+      "creative_message_samples": [
+        "Push comfort, not wires \u2014 everyday women bras."
+      ]
+    },
+    {
+      "campaign_name": "women cotton classics",
+      "ctr": 0.010492367543549416,
+      "roas": 13.233762910893644,
+      "creative_message_samples": [
+        "Seamless confidence for every day \u2014 new women panties.",
+        "No ride\u2011up guarantee \u2014 best\u2011selling women wire\u2011free bras back in stock.",
+        "Stretch that snaps back \u2014 durable women bras."
+      ]
+    },
+    {
+      "campaign_name": "women fit & ift",
+      "ctr": 0.01700711372821535,
+      "roas": 1.7930523658421136,
+      "creative_message_samples": [
+        "Seamless confidence for every day \u2014 new women bras."
+      ]
+    },
+    {
+      "campaign_name": "women fit & li t",
+      "ctr": 0.007790195432799396,
+      "roas": NaN,
+      "creative_message_samples": [
+        "Doctors recommend breathable cotton \u2014 meet our women boyshorts."
+      ]
+    },
+    {
+      "campaign_name": "women fit & lift",
+      "ctr": 0.017686904494056178,
+      "roas": 7.409719751637371,
+      "creative_message_samples": [
+        "Seamless confidence for every day \u2014 new women panties.",
+        "All\u2011day comfort, zero pinch \u2014 try our women bras!",
+        "Push comfort, not wires \u2014 everyday women boyshorts."
+      ]
+    },
+    {
+      "campaign_name": "women fit-& lift",
+      "ctr": 0.015944272445820435,
+      "roas": 1.5442960828854784,
+      "creative_message_samples": [
+        "3\u2011pack deal ends tonight \u2014 upgrade your women drawer with wire\u2011free bras."
+      ]
+    },
+    {
+      "campaign_name": "women s amless everyday",
+      "ctr": 0.008791740678192437,
+      "roas": 1.728081408577117,
+      "creative_message_samples": [
+        "Confidence starts inside \u2014 elevate with women bras.",
+        "Breathable cotton that moves with you \u2014 limited offer on women wire\u2011free bras."
+      ]
+    },
+    {
+      "campaign_name": "women s-mmer invisible",
+      "ctr": 0.008492589422253855,
+      "roas": 1.325733447448543,
+      "creative_message_samples": [
+        "Summer\u2011ready essentials \u2014 sweat\u2011wicking women panties."
+      ]
+    },
+    {
+      "campaign_name": "women seam-ess everyday",
+      "ctr": 0.00917377812257564,
+      "roas": 38.71219931271477,
+      "creative_message_samples": [
+        "Ultra\u2011soft waistband, no marks \u2014 premium women sports bras."
+      ]
+    },
+    {
+      "campaign_name": "women seamess everyday",
+      "ctr": 0.007676409802184824,
+      "roas": 2.294297041781031,
+      "creative_message_samples": [
+        "3\u2011pack deal ends tonight \u2014 upgrade your women drawer with panties."
+      ]
+    },
+    {
+      "campaign_name": "women seaml-ss everyday",
+      "ctr": 0.010577306312659043,
+      "roas": 2.151769518050863,
+      "creative_message_samples": [
+        "All\u2011day comfort, zero pinch \u2014 try our women panties!"
+      ]
+    },
+    {
+      "campaign_name": "women seamless everday",
+      "ctr": 0.00942725408302271,
+      "roas": 2.0206856446610546,
+      "creative_message_samples": [
+        "Cooling mesh panels for workouts \u2014 women panties you\u2019ll actually love."
+      ]
+    },
+    {
+      "campaign_name": "women seamless everyday",
+      "ctr": 0.007994503848694512,
+      "roas": 5.738718143051364,
+      "creative_message_samples": [
+        "Doctors recommend breathable organic cotton \u2014 meet our women boyshorts.",
+        "Invisible under tees \u2014 seamless women bras.",
+        "Breathable bamboo that moves with you \u2014 limited offer on women bras."
+      ]
+    },
+    {
+      "campaign_name": "women seamless-everyday",
+      "ctr": 0.00894467052862383,
+      "roas": 16.555179394108617,
+      "creative_message_samples": [
+        "Confidence starts inside \u2014 elevate with women wire\u2011free bras."
+      ]
+    },
+    {
+      "campaign_name": "women su-mer invisible",
+      "ctr": 0.0057262059973924384,
+      "roas": NaN,
+      "creative_message_samples": [
+        "Push comfort, not wires \u2014 everyday women panties."
+      ]
+    },
+    {
+      "campaign_name": "women summe- invisible",
+      "ctr": 0.008845393310704353,
+      "roas": 5.4283962823808585,
+      "creative_message_samples": [
+        "Push comfort, not wires \u2014 everyday women sports bras."
+      ]
+    },
+    {
+      "campaign_name": "women summer in isible",
+      "ctr": 0.00944983411688863,
+      "roas": 1.0455345428946274,
+      "creative_message_samples": [
+        "Summer\u2011ready essentials \u2014 sweat\u2011wicking women panties."
+      ]
+    },
+    {
+      "campaign_name": "women summer invisible",
+      "ctr": 0.010774933062786233,
+      "roas": 6.254376499555122,
+      "creative_message_samples": [
+        "Doctors recommend breathable microfiber \u2014 meet our women wire\u2011free bras.",
+        "3\u2011pack deal ends tonight \u2014 upgrade your women drawer with panties.",
+        "Hot & comfy: women bras now 20% off \u2014 feel the difference."
+      ]
+    },
+    {
+      "campaign_name": "women | studio sp-rts",
+      "ctr": 0.01145127955236671,
+      "roas": 76.37365673933067,
+      "creative_message_samples": [
+        "Stretch that snaps back \u2014 durable women wire\u2011free bras."
+      ]
+    },
+    {
+      "campaign_name": "women | studio spo ts",
+      "ctr": 0.00615381378664675,
+      "roas": NaN,
+      "creative_message_samples": [
+        "Stretch that snaps back \u2014 durable women sports bras."
+      ]
+    },
+    {
+      "campaign_name": "women | studio sports",
+      "ctr": 0.010812770110497787,
+      "roas": 12.507062832029158,
+      "creative_message_samples": [
+        "Push comfort, not wires \u2014 everyday women sports bras.",
+        "Confidence starts inside \u2014 elevate with women wire\u2011free bras.",
+        "Ultra\u2011soft waistband, no marks \u2014 premium women wire\u2011free bras."
+      ]
+    },
+    {
+      "campaign_name": "women | studio sprts",
+      "ctr": 0.013722015731696777,
+      "roas": 1.2389618717358106,
+      "creative_message_samples": [
+        "Summer\u2011ready essentials \u2014 sweat\u2011wicking women sports bras."
+      ]
+    },
+    {
+      "campaign_name": "women-| studio sports",
+      "ctr": 0.01619992384099549,
+      "roas": 4.981783071355264,
+      "creative_message_samples": [
+        "Push comfort, not wires \u2014 everyday women boyshorts."
+      ]
+    },
+    {
+      "campaign_name": "women_Summe _Invisible",
+      "ctr": 0.007674569080851768,
+      "roas": 2.407814479197116,
+      "creative_message_samples": [
+        "Stretch that snaps back \u2014 durable women wire\u2011free bras."
+      ]
+    },
+    {
+      "campaign_name": "women_Summer_Inisible",
+      "ctr": 0.00954749186467735,
+      "roas": 0.5342683754880326,
+      "creative_message_samples": [
+        "Push comfort, not wires \u2014 everyday women boyshorts."
+      ]
+    },
+    {
+      "campaign_name": "women_Summer_Invisi-le",
+      "ctr": 0.00862537689684148,
+      "roas": 0.763236485704364,
+      "creative_message_samples": [
+        "Invisible under tees \u2014 seamless women sports bras."
+      ]
+    },
+    {
+      "campaign_name": "women_Summer_Invisible",
+      "ctr": 0.011182216756142529,
+      "roas": 7.990380818934276,
+      "creative_message_samples": [
+        "Ultra\u2011soft waistband, no marks \u2014 premium women wire\u2011free bras.",
+        "Summer\u2011ready essentials \u2014 sweat\u2011wicking women wire\u2011free bras.",
+        "Hot & comfy: women sports bras now 20% off \u2014 feel the difference."
+      ]
+    },
+    {
+      "campaign_name": "womn  Summer  Invisible",
+      "ctr": 0.01246383667825106,
+      "roas": 3.051138962583478,
+      "creative_message_samples": [
+        "No ride\u2011up guarantee \u2014 best\u2011selling women bras back in stock."
+      ]
+    },
+    {
+      "campaign_name": "womn cotton classics",
+      "ctr": 0.007900078327002602,
+      "roas": 6.830281744699532,
+      "creative_message_samples": [
+        "Invisible under tees \u2014 seamless women wire\u2011free bras."
+      ]
+    }
+  ],
+  "creative_signals": {
+    "common_words_in_messages": {}
+  }
+}

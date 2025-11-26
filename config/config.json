@@ -1,0 +1,7 @@
+{
+  "confidence_threshold_accept": 0.60,
+  "confidence_threshold_inconclusive": 0.40,
+  "ctr_drop_threshold": 0.20,
+  "roas_drop_threshold": 0.15,
+  "random_seed": 42
+}

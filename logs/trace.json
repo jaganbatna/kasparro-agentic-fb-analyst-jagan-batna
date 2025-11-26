@@ -1,0 +1,28 @@
+{
+  "steps": {
+    "plan_id": "e650c451-f551-4114-9fa0-ae44002be844",
+    "query": "Analyze ROAS drop",
+    "steps": [
+      {
+        "id": "p1",
+        "task": "Load dataset summary"
+      },
+      {
+        "id": "p2",
+        "task": "Identify ROAS / CTR problems"
+      },
+      {
+        "id": "p3",
+        "task": "Generate performance hypotheses"
+      },
+      {
+        "id": "p4",
+        "task": "Validate hypotheses using rule-based checks"
+      },
+      {
+        "id": "p5",
+        "task": "Generate creative improvements"
+      }
+    ]
+  }
+}

@@ -1,0 +1,12 @@
+python: "3.10"
+random_seed: 42
+
+thresholds:
+  confidence_accept: 0.6
+  confidence_inconclusive: 0.4
+  ctr_drop: 0.2
+  roas_drop: 0.15
+
+data:
+  use_sample_data: true
+  sample_summary_path: "data/sample_data_summary.json"
